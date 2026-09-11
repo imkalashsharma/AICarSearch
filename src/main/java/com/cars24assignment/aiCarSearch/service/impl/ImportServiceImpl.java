@@ -71,19 +71,27 @@ public class ImportServiceImpl implements ImportService {
         }
     }
 
-    private String emptyToNull(String value) {
-        return value == null || value.isBlank() ? null : value;
-    }
-
     private Integer parseInt(String value) {
-        return value == null || value.isBlank()
-                ? null
-                : Integer.valueOf(value);
+        if (value == null || value.isBlank()) {
+            return null;
+        }
+
+        return (int) Double.parseDouble(value.trim());
     }
 
     private Double parseDouble(String value) {
-        return value == null || value.isBlank()
-                ? null
-                : Double.valueOf(value);
+        if (value == null || value.isBlank()) {
+            return null;
+        }
+
+        return Double.parseDouble(value.trim());
+    }
+
+    private String emptyToNull(String value) {
+        if (value == null || value.isBlank()) {
+            return null;
+        }
+
+        return value.trim();
     }
 }

@@ -1,0 +1,1446 @@
+name,location,body_type,year,kilometers_driven,fuel_type,transmission,owner_type,mileage,engine,power,seats,new_price,price
+2017 Maruti Swift VXI,Delhi,Hatchback,2017,25847,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,561000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2016,55511,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,498000.0
+2020 Maruti Swift VXI,Noida,Hatchback,2020,47110,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,577000.0
+2022 Maruti Ertiga VXI AT SHVS,Ghaziabad,MPV,2022,35378,Petrol,Automatic,1,20.5,1462.0,103.0,7.0,1150000.0,1084000.0
+2019 Maruti Dzire VXI,Faridabad,Sedan,2019,91856,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,603000.0
+2014 Maruti Alto 800 LXI,Delhi,Hatchback,2014,43780,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,233000.0
+2020 Maruti Swift VXI,Gurugram,Hatchback,2020,49583,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,593000.0
+2018 Maruti Dzire VXI AMT,Noida,Sedan,2018,86837,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,583000.0
+2016 Maruti Swift Dzire VXI,Ghaziabad,Hatchback,2016,58570,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,513000.0
+2019 Maruti S PRESSO VXI,Faridabad,Other,2019,50645,Petrol,Manual,1,,,,,,378000.0
+2016 Maruti Swift ZXI,Delhi,Hatchback,2016,77053,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,526000.0
+2023 Maruti Alto K10 VXI PLUS AMT,Gurugram,Hatchback,2023,8023,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,565000.0
+2022 Maruti Alto LXI O,Noida,Hatchback,2022,18317,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,384000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2019,73984,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,610000.0
+2014 Maruti Swift Dzire VXI,Faridabad,Hatchback,2014,65612,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,462000.0
+2017 Maruti Swift VXI O,Delhi,Hatchback,2017,81391,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,511000.0
+2021 Maruti Celerio ZXI PLUS AGS,Gurugram,Hatchback,2021,3760,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,650000.0
+2017 Maruti Dzire ZXI PLUS AMT,Noida,Sedan,2017,72891,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,616000.0
+2023 Maruti Celerio ZXI,Ghaziabad,Hatchback,2023,10006,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,588000.0
+2014 Maruti Alto 800 LXI,Faridabad,Hatchback,2014,57290,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,244000.0
+2018 Maruti IGNIS ALPHA 1.2,Delhi,Hatchback,2018,35090,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,533000.0
+2021 Maruti S PRESSO VXI+,Gurugram,Other,2021,45232,Petrol,Manual,1,,,,,,436000.0
+2018 Maruti Celerio VXI (O),Noida,Hatchback,2018,37192,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,408000.0
+2023 Maruti Alto K10 VXI PLUS AMT,Ghaziabad,Hatchback,2023,15262,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,565000.0
+2020 Maruti Alto VXI,Faridabad,Hatchback,2020,32285,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,360000.0
+2018 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2018,60017,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,617000.0
+2014 Maruti Wagon R Stingray VXI,Gurugram,Hatchback,2014,76934,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,333000.0
+2022 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Noida,Sedan,2022,16453,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,897000.0
+2017 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2017,72304,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,449000.0
+2017 Maruti Celerio ZXI (O),Faridabad,Hatchback,2017,76079,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,447000.0
+2023 Maruti Alto VXI PLUS,Delhi,Hatchback,2023,29652,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,446000.0
+2019 Maruti Celerio ZXI,Gurugram,Hatchback,2019,99910,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,450000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Noida,Hatchback,2018,62129,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,642000.0
+2018 Maruti Celerio X ZXI AMT,Ghaziabad,Hatchback,2018,14268,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,494000.0
+2018 Maruti Swift VDI,Faridabad,Hatchback,2018,72273,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,610000.0
+2017 Maruti IGNIS ZETA 1.2,Delhi,Hatchback,2017,52488,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,497000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2019,86198,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,718000.0
+2016 Maruti Swift Dzire VXI,Noida,Hatchback,2016,107226,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,441000.0
+2012 Maruti Wagon R 1.0 LXI,Ghaziabad,Hatchback,2012,61391,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,253000.0
+2018 Maruti Swift ZXI AMT,Faridabad,Hatchback,2018,106179,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,536000.0
+2017 Maruti Vitara Brezza ZDI,Delhi,SUV,2017,111621,Diesel,Manual,2,18.7,1462.0,103.0,5.0,1150000.0,751000.0
+2018 Maruti Swift VXI,Gurugram,Hatchback,2018,74858,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,530000.0
+2021 Maruti Dzire VXI,Noida,Sedan,2021,60706,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,703000.0
+2017 Maruti Swift VXI,Ghaziabad,Hatchback,2017,69042,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,488000.0
+2011 Maruti Alto K10 VXI,Faridabad,Hatchback,2011,34213,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,191000.0
+2015 Maruti Swift Dzire VDI ABS,Delhi,Hatchback,2015,89450,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,582000.0
+2017 Maruti Dzire VDI AMT,Gurugram,Sedan,2017,77742,Diesel,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,643000.0
+2021 Maruti Dzire VXI,Noida,Sedan,2021,45407,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,690000.0
+2014 Maruti Swift Dzire ZDI,Ghaziabad,Hatchback,2014,98752,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,527000.0
+2015 Maruti Swift VDI ABS,Faridabad,Hatchback,2015,90513,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,521000.0
+2015 Maruti Alto 800 LXI,Delhi,Hatchback,2015,110664,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,209000.0
+2018 Maruti Dzire VXI AMT,Gurugram,Sedan,2018,68760,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,599000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Noida,SUV,2023,22737,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1146000.0
+2020 Maruti Dzire VXI AMT,Ghaziabad,Sedan,2020,41774,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,705000.0
+2022 Maruti BREZZA ZXI SMART HYBRID,Faridabad,SUV,2022,66111,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1058000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Delhi,SUV,2023,12590,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1146000.0
+2021 Maruti Dzire ZXI,Gurugram,Sedan,2021,39505,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,783000.0
+2013 Maruti Swift ZDI,Noida,Hatchback,2013,102255,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,438000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2020,61979,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,637000.0
+2017 Maruti Wagon R 1.0 VXI+ (O) MT,Faridabad,Hatchback,2017,92836,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,392000.0
+2018 Maruti Swift ZXI AMT,Delhi,Hatchback,2018,76836,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,631000.0
+2023 Maruti Dzire ZXI AMT,Gurugram,Sedan,2023,10289,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,829000.0
+2016 Maruti Swift Dzire VXI (O),Noida,Hatchback,2016,34781,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,515000.0
+2017 Maruti Swift VXI,Ghaziabad,Hatchback,2017,63852,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,527000.0
+2021 Maruti Swift ZXI,Faridabad,Hatchback,2021,62062,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,679000.0
+2014 Maruti Swift VXI,Delhi,Hatchback,2014,54507,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,429000.0
+2011 Maruti Alto K10 VXI,Gurugram,Hatchback,2011,50057,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,182000.0
+2017 Maruti Dzire VDI AMT,Noida,Sedan,2017,95453,Diesel,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,640000.0
+2022 Maruti XL6 ZETA AT,Ghaziabad,MPV,2022,41145,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,1193000.0
+2017 Maruti Vitara Brezza VDI (O),Faridabad,SUV,2017,45146,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,747000.0
+2016 Maruti Swift Dzire ZXI,Delhi,Hatchback,2016,38023,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,623000.0
+2013 Maruti Swift Dzire VXI REGAL EDITION,Gurugram,Hatchback,2013,52178,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,420000.0
+2021 Maruti S PRESSO VXI+,Noida,Other,2021,18842,Petrol,Manual,2,,,,,,427000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Ghaziabad,SUV,2023,18693,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1146000.0
+2018 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2018,92102,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,386000.0
+2022 Maruti Celerio VXI CNG,Delhi,Hatchback,2022,48731,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,637000.0
+2013 Maruti Alto 800 LXI,Gurugram,Hatchback,2013,56113,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,219000.0
+2020 Maruti Dzire ZXI PLUS AMT,Noida,Sedan,2020,32142,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,790000.0
+2022 Maruti BREZZA ZXI SMART HYBRID,Ghaziabad,SUV,2022,23690,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1091000.0
+2016 Maruti Celerio VXI AMT,Faridabad,Hatchback,2016,32899,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,385000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Delhi,Hatchback,2018,43363,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,670000.0
+2019 Maruti Alto K10 VXI,Gurugram,Hatchback,2019,47066,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,336000.0
+2019 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Noida,Sedan,2019,55281,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,717000.0
+2022 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2022,31283,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,858000.0
+2014 Maruti Swift ZXI,Faridabad,Hatchback,2014,48194,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,470000.0
+2016 Maruti Swift VDI,Delhi,Hatchback,2016,61992,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,517000.0
+2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Gurugram,Sedan,2020,50172,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,755000.0
+2020 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2020,77633,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,512000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2019,31968,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,682000.0
+2016 Maruti Alto K10 VXI AMT,Faridabad,Hatchback,2016,85292,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,317000.0
+2019 Maruti Alto LXI,Delhi,Hatchback,2019,31475,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,326000.0
+2017 Maruti Alto 800 VXI O,Gurugram,Hatchback,2017,92881,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,264000.0
+2022 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2022,33086,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,780000.0
+2014 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2014,92533,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,230000.0
+2021 Maruti Dzire VXI AMT,Faridabad,Sedan,2021,49950,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,745000.0
+2017 Maruti IGNIS DELTA 1.2,Delhi,Hatchback,2017,85064,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,419000.0
+2016 Maruti Celerio VXI AMT,Gurugram,Hatchback,2016,69973,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,386000.0
+2017 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2017,77579,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,429000.0
+2019 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2019,73813,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,629000.0
+2018 Maruti Celerio VXI AMT (O),Faridabad,Hatchback,2018,69185,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,425000.0
+2014 Maruti Swift Dzire VXI,Delhi,Hatchback,2014,62067,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,451000.0
+2012 Maruti Swift VXI,Gurugram,Hatchback,2012,71115,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,331000.0
+2020 Maruti Dzire ZXI AMT,Noida,Sedan,2020,15435,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,728000.0
+2017 Maruti Ciaz ZETA DIESEL 1.3,Ghaziabad,Sedan,2017,101069,Diesel,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,692000.0
+2020 Maruti Celerio VXI (O),Faridabad,Hatchback,2020,28358,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,475000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2019,11957,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,714000.0
+2013 Maruti Alto 800 LXI,Gurugram,Hatchback,2013,48658,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,219000.0
+2015 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2015,90358,Petrol,Manual,3,22.0,1197.0,88.0,5.0,750000.0,280000.0
+2011 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2011,72134,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,190000.0
+2020 Maruti Alto LXI,Faridabad,Hatchback,2020,13485,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,358000.0
+2015 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2015,43791,Petrol,Manual,3,22.0,1197.0,88.0,5.0,750000.0,320000.0
+2015 Maruti Celerio ZXI AMT,Gurugram,Hatchback,2015,75112,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,400000.0
+2018 Maruti Ciaz ALPHA 1.4 PETROL,Noida,Sedan,2018,98119,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,657000.0
+2022 Maruti Dzire VXI AMT,Ghaziabad,Sedan,2022,52707,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,706000.0
+2014 Maruti Swift Dzire VXI,Faridabad,Hatchback,2014,55835,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,462000.0
+2020 Maruti Celerio ZXI AMT,Delhi,Hatchback,2020,47616,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,530000.0
+2017 Maruti IGNIS DELTA 1.2,Gurugram,Hatchback,2017,70873,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,435000.0
+2020 Maruti New Wagon-R ZXI 1.2,Noida,Other,2020,66966,Petrol,Manual,1,,,,,,509000.0
+2016 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2016,63813,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,336000.0
+2013 Maruti Alto K10 VXI,Faridabad,Hatchback,2013,70050,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,231000.0
+2019 Maruti Celerio X ZXI AMT,Delhi,Hatchback,2019,52328,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,514000.0
+2018 Maruti Celerio ZXI (O),Gurugram,Hatchback,2018,99649,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,415000.0
+2015 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2015,29956,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,375000.0
+2018 Maruti Wagon R 1.0 VXI AMT,Ghaziabad,Hatchback,2018,64157,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,422000.0
+2019 Maruti New Wagon-R VXI 1.2,Faridabad,Other,2019,52608,Petrol,Manual,2,,,,,,504000.0
+2019 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2019,24499,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,698000.0
+2019 Maruti Celerio ZXI,Gurugram,Hatchback,2019,69332,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,460000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2016,97531,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,513000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2019,58448,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,665000.0
+2017 Maruti Alto K10 VXI (O) AMT,Faridabad,Hatchback,2017,67823,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,345000.0
+2015 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2015,34292,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,349000.0
+2019 Maruti Baleno ALPHA PETROL 1.2,Gurugram,Hatchback,2019,88651,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,649000.0
+2018 Maruti Celerio X ZXI AMT,Noida,Hatchback,2018,68971,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,445000.0
+2023 Maruti New Wagon-R ZXI 1.2,Ghaziabad,Other,2023,35595,Petrol,Manual,1,,,,,,608000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Faridabad,Hatchback,2017,39347,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,538000.0
+2017 Maruti Ciaz DELTA 1.4 MT PETROL,Delhi,Sedan,2017,105815,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,568000.0
+2017 Maruti IGNIS ZETA 1.2,Gurugram,Hatchback,2017,63716,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,484000.0
+2019 Maruti Alto K10 VXI,Noida,Hatchback,2019,39091,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,369000.0
+2016 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2016,77225,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,373000.0
+2022 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Faridabad,Sedan,2022,23327,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,996000.0
+2022 Maruti New Wagon-R VXI 1.0,Delhi,Other,2022,44382,Petrol,Manual,2,,,,,,492000.0
+2017 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2017,66341,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,408000.0
+2018 Maruti Ciaz ZETA 1.4 AT PETROL,Noida,Sedan,2018,88132,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,757000.0
+2019 Maruti New Wagon-R VXI 1.0 AMT,Ghaziabad,Other,2019,95456,Petrol,Automatic,1,,,,,,465000.0
+2021 Maruti S PRESSO VXI+,Faridabad,Other,2021,26875,Petrol,Manual,2,,,,,,439000.0
+2020 Maruti New Wagon-R VXI 1.2 AMT,Delhi,Other,2020,50380,Petrol,Automatic,2,,,,,,549000.0
+2023 Maruti Celerio ZXI AMT,Gurugram,Hatchback,2023,17447,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,634000.0
+2020 Maruti Alto LXI,Noida,Hatchback,2020,30292,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,358000.0
+2017 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2017,53241,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,449000.0
+2021 Maruti Celerio ZXI AMT,Faridabad,Hatchback,2021,24059,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,600000.0
+2020 Maruti S PRESSO LXI (O) CNG,Delhi,Other,2020,80265,CNG,Manual,1,,,,,,486000.0
+2017 Maruti Celerio ZXI (O),Gurugram,Hatchback,2017,51182,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,414000.0
+2022 Maruti New Wagon-R ZXI 1.2,Noida,Other,2022,22594,Petrol,Manual,1,,,,,,604000.0
+2021 Maruti Alto VXI PLUS,Ghaziabad,Hatchback,2021,24463,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,392000.0
+2021 Maruti Alto LXI O,Faridabad,Hatchback,2021,26792,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,380000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Delhi,Hatchback,2016,82834,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,372000.0
+2021 Maruti S PRESSO VXI+,Gurugram,Other,2021,46355,Petrol,Manual,1,,,,,,436000.0
+2013 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2013,51088,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,288000.0
+2022 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2022,49533,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,826000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2019,36262,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,677000.0
+2014 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2014,69455,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,331000.0
+2020 Maruti New Wagon-R VXI 1.2,Gurugram,Other,2020,48833,Petrol,Manual,1,,,,,,515000.0
+2020 Maruti New Wagon-R VXI (O) 1.2 AMT,Noida,Other,2020,26074,Petrol,Automatic,1,,,,,,568000.0
+2019 Maruti Celerio ZXI AMT (O),Ghaziabad,Hatchback,2019,87744,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,483000.0
+2014 Maruti Celerio VXI AMT,Faridabad,Hatchback,2014,98335,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,376000.0
+2018 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2018,76210,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,410000.0
+2017 Maruti Celerio ZXI AMT,Gurugram,Hatchback,2017,77481,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,414000.0
+2014 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2014,83098,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,307000.0
+2017 Maruti Celerio ZXI,Ghaziabad,Hatchback,2017,81204,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,413000.0
+2015 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2015,97385,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,329000.0
+2018 Maruti IGNIS DELTA 1.2 AMT,Delhi,Hatchback,2018,33509,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,517000.0
+2019 Maruti New Wagon-R VXI 1.2,Gurugram,Other,2019,49347,Petrol,Manual,1,,,,,,511000.0
+2022 Maruti New Wagon-R VXI 1.0 AMT,Noida,Other,2022,9301,Petrol,Automatic,1,,,,,,620000.0
+2021 Maruti New Wagon-R VXI (O) 1.2 AMT,Ghaziabad,Other,2021,37541,Petrol,Automatic,1,,,,,,600000.0
+2020 Maruti New Wagon-R ZXI 1.2,Faridabad,Other,2020,52823,Petrol,Manual,1,,,,,,540000.0
+2022 Maruti S PRESSO VXI+,Delhi,Other,2022,35049,Petrol,Manual,1,,,,,,490000.0
+2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Gurugram,Sedan,2020,61765,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,743000.0
+2019 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2019,72496,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,458000.0
+2014 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2014,98723,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,308000.0
+2021 Maruti New Wagon-R VXI 1.0,Faridabad,Other,2021,40215,Petrol,Manual,1,,,,,,527000.0
+2022 Maruti Alto LXI O,Delhi,Hatchback,2022,26385,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,402000.0
+2018 Maruti Wagon R 1.0 VXI AMT,Gurugram,Hatchback,2018,99726,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,418000.0
+2021 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Noida,Sedan,2021,57002,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,961000.0
+2017 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2017,63989,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,278000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2016,93648,Petrol,Manual,3,22.3,1197.0,89.0,5.0,900000.0,547000.0
+2014 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2014,76186,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,338000.0
+2012 Maruti Wagon R 1.0 LXI,Gurugram,Hatchback,2012,76750,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,312000.0
+2018 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Noida,Sedan,2018,50723,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,763000.0
+2018 Maruti Swift VXI,Ghaziabad,Hatchback,2018,78023,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,537000.0
+2018 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2018,52856,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,530000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2016,48242,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,497000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2021,46568,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,726000.0
+2019 Maruti Swift ZXI PLUS AMT,Noida,Hatchback,2019,90696,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,612000.0
+2011 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2011,81585,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,177000.0
+2018 Maruti Swift ZXI PLUS AMT,Faridabad,Hatchback,2018,49070,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,619000.0
+2022 Maruti Dzire VXI,Delhi,Sedan,2022,35844,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,707000.0
+2019 Maruti Dzire VXI AMT,Gurugram,Sedan,2019,41666,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,653000.0
+2013 Maruti Ritz ZDI,Noida,Hatchback,2013,82552,Diesel,Manual,1,18.0,1197.0,74.0,5.0,700000.0,366000.0
+2017 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2017,96161,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,240000.0
+2021 Maruti Vitara Brezza ZXI PLUS AT DUAL TONE SHVS,Faridabad,SUV,2021,68282,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,989000.0
+2022 Maruti Vitara Brezza ZXI PLUS AT SHVS,Delhi,SUV,2022,24794,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,1102000.0
+2017 Maruti Swift LXI (O),Gurugram,Hatchback,2017,98274,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,409000.0
+2017 Maruti Alto 800 LXI,Noida,Hatchback,2017,47179,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,295000.0
+2021 Maruti Alto VXI PLUS,Ghaziabad,Hatchback,2021,24381,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,373000.0
+2020 Maruti Baleno ZETA CVT PETROL 1.2,Faridabad,Hatchback,2020,47699,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,739000.0
+2021 Maruti Alto VXI,Delhi,Hatchback,2021,45381,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,358000.0
+2017 Maruti Alto 800 VXI,Gurugram,Hatchback,2017,66467,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,281000.0
+2018 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2018,77148,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,514000.0
+2021 Maruti Swift LXI,Ghaziabad,Hatchback,2021,29057,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,575000.0
+2022 Maruti Alto K10 VXI,Faridabad,Hatchback,2022,22864,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,403000.0
+2016 Maruti Vitara Brezza ZDI,Delhi,SUV,2016,76173,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,751000.0
+2017 Maruti Celerio VXI,Gurugram,Hatchback,2017,90417,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,361000.0
+2023 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2023,28570,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,900000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2017,61462,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,608000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2019,55295,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,647000.0
+2013 Maruti Alto 800 LXI,Delhi,Hatchback,2013,49551,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,219000.0
+2018 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2018,43680,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,620000.0
+2021 Maruti XL6 ZETA MT,Noida,MPV,2021,54421,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,999000.0
+2012 Maruti Swift VDI,Ghaziabad,Hatchback,2012,62234,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,356000.0
+2021 Maruti XL6 ZETA MT,Faridabad,MPV,2021,53293,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,980000.0
+2019 Maruti Dzire VXI AMT,Delhi,Sedan,2019,19029,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,664000.0
+2021 Maruti Swift VXI,Gurugram,Hatchback,2021,23180,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,643000.0
+2014 Maruti Celerio VXI AMT,Noida,Hatchback,2014,58071,Petrol,Automatic,3,25.0,998.0,66.0,5.0,700000.0,318000.0
+2020 Maruti Alto LXI,Ghaziabad,Hatchback,2020,62586,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,306000.0
+2015 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2015,61446,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,441000.0
+2013 Maruti Alto K10 VXI,Delhi,Hatchback,2013,62715,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,194000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2020,55997,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,690000.0
+2012 Maruti Ritz VXI,Noida,Hatchback,2012,42582,Petrol,Manual,1,18.0,1197.0,74.0,5.0,700000.0,283000.0
+2014 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2014,22765,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,365000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2021,31437,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,738000.0
+2018 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Delhi,Sedan,2018,29010,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,696000.0
+2022 Maruti Alto VXI,Gurugram,Hatchback,2022,10612,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,424000.0
+2019 Maruti Baleno ALPHA CVT PETROL 1.2,Noida,Hatchback,2019,32201,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,747000.0
+2017 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2017,49061,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,277000.0
+2021 Maruti S PRESSO VXI+,Faridabad,Other,2021,10266,Petrol,Manual,1,,,,,,450000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,47626,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,568000.0
+2023 Maruti Alto K10 LXI,Gurugram,Hatchback,2023,16628,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,472000.0
+2013 Maruti Wagon R 1.0 LXI CNG,Noida,Hatchback,2013,64400,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,273000.0
+2017 Maruti Swift VXI,Ghaziabad,Hatchback,2017,74579,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,493000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Faridabad,Hatchback,2014,28118,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,348000.0
+2015 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2015,52646,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,353000.0
+2016 Maruti Celerio ZXI AMT,Gurugram,Hatchback,2016,42692,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,391000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2017,94021,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,491000.0
+2023 Maruti XL6 ZETA CNG,Ghaziabad,MPV,2023,32447,CNG,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1228000.0
+2019 Maruti New Wagon-R LXI CNG 1.0,Faridabad,Other,2019,86195,CNG,Manual,1,,,,,,479000.0
+2023 Maruti XL6 ALPHA PLUS MT,Delhi,MPV,2023,21398,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1198000.0
+2013 Maruti Swift Dzire VDI,Gurugram,Hatchback,2013,40081,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,487000.0
+2020 Maruti New Wagon-R LXI CNG 1.0,Noida,Other,2020,57184,CNG,Manual,1,,,,,,520000.0
+2016 Maruti Vitara Brezza ZDI PLUS DUAL TONE,Ghaziabad,SUV,2016,72213,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,747000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Faridabad,Hatchback,2021,16690,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,792000.0
+2018 Maruti Baleno DELTA CVT PETROL 1.2,Delhi,Hatchback,2018,33974,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,581000.0
+2022 Maruti BREZZA ZXI SMART HYBRID,Gurugram,SUV,2022,18859,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1141000.0
+2021 Maruti New Wagon-R ZXI 1.2 AMT,Noida,Other,2021,26550,Petrol,Automatic,1,,,,,,612000.0
+2020 Maruti Dzire ZXI PLUS AMT,Ghaziabad,Sedan,2020,56042,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,598000.0
+2022 Maruti New Wagon-R VXI 1.0 AMT,Faridabad,Other,2022,28720,Petrol,Automatic,1,,,,,,674000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2017,113814,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,528000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Gurugram,Hatchback,2014,81895,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,312000.0
+2017 Maruti Baleno ZETA DIESEL 1.3,Noida,Hatchback,2017,107690,Diesel,Manual,2,22.3,1197.0,89.0,5.0,900000.0,527000.0
+2017 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2017,33857,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,404000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2016,43273,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,505000.0
+2018 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2018,57301,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,747000.0
+2016 Maruti Ciaz VXI,Gurugram,Sedan,2016,99639,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,459000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Noida,Hatchback,2018,15600,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,699000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Ghaziabad,Hatchback,2018,43313,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,631000.0
+2013 Maruti Swift ZXI,Faridabad,Hatchback,2013,42338,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,337000.0
+2015 Maruti Alto 800 LXI CNG,Delhi,Hatchback,2015,68920,CNG,Manual,2,24.0,998.0,66.0,5.0,600000.0,237000.0
+2017 Maruti Dzire LXI,Gurugram,Sedan,2017,89378,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,444000.0
+2016 Maruti Swift VXI O,Noida,Hatchback,2016,35970,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,433000.0
+2016 Maruti Celerio ZXI,Ghaziabad,Hatchback,2016,33655,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,367000.0
+2016 Maruti Ciaz VDI SHVS,Faridabad,Sedan,2016,96990,Diesel,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,566000.0
+2015 Maruti Ertiga VXI CNG,Delhi,MPV,2015,52143,CNG,Manual,3,20.5,1462.0,103.0,7.0,1150000.0,601000.0
+2015 Maruti Wagon R 1.0 VXI AMT,Gurugram,Hatchback,2015,95214,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,301000.0
+2016 Maruti Baleno DELTA CVT PETROL 1.2,Noida,Hatchback,2016,34019,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,522000.0
+2017 Maruti Vitara Brezza VDI,Ghaziabad,SUV,2017,53293,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,625000.0
+2015 Maruti Baleno ZETA DIESEL 1.3,Faridabad,Hatchback,2015,56687,Diesel,Manual,1,22.3,1197.0,89.0,5.0,900000.0,526000.0
+2022 Maruti BREZZA ZXI SMART HYBRID,Delhi,SUV,2022,5377,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1159000.0
+2021 Maruti Alto LXI,Gurugram,Hatchback,2021,26866,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,334000.0
+2014 Maruti Ertiga VXI CNG,Noida,MPV,2014,62157,CNG,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,586000.0
+2023 Maruti New Wagon-R LXI 1.0,Ghaziabad,Other,2023,1958,Petrol,Manual,1,,,,,,589000.0
+2019 Maruti Baleno DELTA CVT PETROL 1.2,Faridabad,Hatchback,2019,16547,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,600000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2017,57012,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,376000.0
+2016 Maruti Celerio ZXI AMT,Gurugram,Hatchback,2016,76727,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,385000.0
+2021 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Noida,Sedan,2021,30926,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,773000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2018,44613,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,580000.0
+2015 Maruti Celerio VXI AMT,Faridabad,Hatchback,2015,73092,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,327000.0
+2014 Maruti Swift VXI,Delhi,Hatchback,2014,53120,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,371000.0
+2017 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2017,22280,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,380000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Noida,Hatchback,2014,99498,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,288000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Ghaziabad,Hatchback,2017,56359,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,376000.0
+2019 Maruti Celerio VXI CNG,Faridabad,Hatchback,2019,35436,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,518000.0
+2013 Maruti Wagon R Stingray VXI,Delhi,Hatchback,2013,35954,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,295000.0
+2016 Maruti Swift Dzire VXI,Gurugram,Hatchback,2016,49757,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,439000.0
+2020 Maruti S Cross ALPHA AT SMART HYBRID,Noida,Other,2020,29624,Petrol,Automatic,1,,,,,,1006000.0
+2020 Maruti S PRESSO VXI CNG,Ghaziabad,Other,2020,66992,CNG,Manual,1,,,,,,401000.0
+2015 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2015,28048,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,305000.0
+2015 Maruti Ertiga ZDI,Delhi,MPV,2015,74875,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,725000.0
+2018 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,Gurugram,Sedan,2018,18001,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,706000.0
+2021 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Noida,Sedan,2021,16909,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,755000.0
+2017 Maruti Swift VXI,Ghaziabad,Hatchback,2017,57535,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,474000.0
+2017 Maruti IGNIS DELTA 1.2,Faridabad,Hatchback,2017,56219,CNG,Manual,2,20.9,1197.0,82.0,5.0,800000.0,431000.0
+2015 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2015,16624,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,338000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2017,62669,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,506000.0
+2013 Maruti Swift Dzire ZDI,Noida,Hatchback,2013,120050,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,438000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Ghaziabad,Hatchback,2018,98745,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,408000.0
+2021 Maruti New Wagon-R ZXI 1.2 AMT,Faridabad,Other,2021,34224,Petrol,Automatic,1,,,,,,609000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2021,14955,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,716000.0
+2012 Maruti Swift Dzire ZXI,Gurugram,Hatchback,2012,60719,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,334000.0
+2015 Maruti Baleno ALPHA DIESEL 1.3,Noida,Hatchback,2015,59958,Diesel,Manual,2,22.3,1197.0,89.0,5.0,900000.0,546000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2018,33155,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,607000.0
+2013 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2013,45304,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,275000.0
+2013 Maruti Ertiga ZXI,Delhi,MPV,2013,41016,Petrol,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,513000.0
+2015 Maruti Ertiga ZXI,Gurugram,MPV,2015,48033,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,651000.0
+2019 Maruti S PRESSO VXI PLUS AMT,Noida,Other,2019,21125,Petrol,Automatic,1,,,,,,427000.0
+2021 Maruti New Wagon-R VXI (O) 1.2,Ghaziabad,Other,2021,19528,Petrol,Manual,2,,,,,,468000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Faridabad,Sedan,2020,23697,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,866000.0
+2012 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2012,43569,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,239000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2019,24684,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,708000.0
+2015 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2015,34384,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,341000.0
+2022 Maruti S PRESSO VXI+,Ghaziabad,Other,2022,10815,Petrol,Manual,1,,,,,,476000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2017,29835,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,525000.0
+2021 Maruti New Wagon-R LXI CNG (O) 1.0,Delhi,Other,2021,13106,CNG,Manual,1,,,,,,587000.0
+2021 Maruti S PRESSO VXI (O) CNG,Gurugram,Other,2021,48375,CNG,Manual,1,,,,,,480000.0
+2019 Maruti New Wagon-R VXI (O) 1.2,Noida,Other,2019,25824,Petrol,Manual,1,,,,,,476000.0
+2017 Maruti Wagon R 1.0 VXI AMT,Ghaziabad,Hatchback,2017,84486,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,375000.0
+2019 Maruti IGNIS ALPHA 1.2,Faridabad,Hatchback,2019,22343,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,529000.0
+2019 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Delhi,Sedan,2019,54408,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,643000.0
+2017 Maruti IGNIS ZETA 1.2 AMT DUAL TONE,Gurugram,Hatchback,2017,38048,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,465000.0
+2017 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2017,30176,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,432000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2017,30064,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,515000.0
+2021 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Faridabad,Sedan,2021,29291,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,865000.0
+2014 Maruti Celerio VXI AMT,Delhi,Hatchback,2014,98502,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,318000.0
+2021 Maruti New Wagon-R LXI CNG 1.0,Gurugram,Other,2021,23233,CNG,Manual,1,,,,,,562000.0
+2022 Maruti New Wagon-R ZXI 1.2,Noida,Other,2022,20987,Petrol,Manual,1,,,,,,587000.0
+2017 Maruti IGNIS ZETA 1.2 AMT DUAL TONE,Ghaziabad,Hatchback,2017,19428,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,478000.0
+2021 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Faridabad,Sedan,2021,33706,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,945000.0
+2021 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Delhi,Sedan,2021,16992,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,927000.0
+2020 Maruti S PRESSO VXI CNG,Gurugram,Other,2020,37608,CNG,Manual,1,,,,,,416000.0
+2014 Maruti Swift Dzire ZDI,Noida,Hatchback,2014,11144,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,525000.0
+2017 Maruti Wagon R 1.0 VXI OPT,Ghaziabad,Hatchback,2017,43944,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,371000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Faridabad,Hatchback,2014,105898,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,287000.0
+2017 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2017,34793,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,379000.0
+2021 Maruti New Wagon-R LXI CNG 1.0,Gurugram,Other,2021,30981,CNG,Manual,1,,,,,,562000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Noida,Hatchback,2014,95135,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,333000.0
+2021 Maruti New Wagon-R LXI CNG (O) 1.0,Ghaziabad,Other,2021,36188,CNG,Manual,1,,,,,,586000.0
+2023 Maruti New Wagon-R VXI 1.0 AMT,Faridabad,Other,2023,3883,Petrol,Automatic,1,,,,,,723000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2020,31176,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,879000.0
+2018 Maruti Swift VXI AMT,Gurugram,Hatchback,2018,77150,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,506000.0
+2023 Maruti XL6 ZETA CNG,Noida,MPV,2023,21141,CNG,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1225000.0
+2020 Maruti New Wagon-R LXI CNG 1.0,Ghaziabad,Other,2020,25230,CNG,Manual,1,,,,,,529000.0
+2014 Maruti Swift VXI,Faridabad,Hatchback,2014,29876,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,392000.0
+2015 Maruti Swift VXI,Delhi,Hatchback,2015,76928,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,381000.0
+2018 Maruti Dzire VXI AMT,Gurugram,Sedan,2018,51852,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,562000.0
+2017 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2017,19081,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,351000.0
+2012 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2012,42531,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,234000.0
+2017 Maruti Baleno ALPHA DIESEL 1.3,Faridabad,Hatchback,2017,73649,Diesel,Manual,1,22.3,1197.0,89.0,5.0,900000.0,556000.0
+2019 Maruti New Wagon-R VXI 1.2,Delhi,Other,2019,11829,Petrol,Manual,2,,,,,,462000.0
+2016 Maruti Ertiga VXI,Gurugram,MPV,2016,43851,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,679000.0
+2014 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2014,67447,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,280000.0
+2014 Maruti Ertiga VDI,Ghaziabad,MPV,2014,119998,Diesel,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,591000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Faridabad,SUV,2023,10234,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1231000.0
+2021 Maruti New Wagon-R VXI 1.2,Delhi,Other,2021,18693,Petrol,Manual,1,,,,,,536000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2019,16282,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,630000.0
+2021 Maruti New Wagon-R LXI CNG 1.0,Noida,Other,2021,27051,CNG,Manual,1,,,,,,562000.0
+2020 Maruti S PRESSO VXI (O) AMT,Ghaziabad,Other,2020,13440,Petrol,Automatic,1,,,,,,454000.0
+2021 Maruti New Wagon-R LXI CNG (O) 1.0,Faridabad,Other,2021,39613,CNG,Manual,1,,,,,,574000.0
+2022 Maruti IGNIS ZETA 1.2,Delhi,Hatchback,2022,6992,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,620000.0
+2014 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2014,42307,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,304000.0
+2017 Maruti Alto 800 LXI CNG,Noida,Hatchback,2017,83469,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,282000.0
+2022 Maruti XL6 ALPHA AT,Ghaziabad,MPV,2022,24494,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,1213000.0
+2021 Maruti XL6 ALPHA MT,Faridabad,MPV,2021,48740,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1016000.0
+2015 Maruti Ciaz ZXI,Delhi,Sedan,2015,85633,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,476000.0
+2022 Maruti Ertiga ZXI (O) CNG,Gurugram,MPV,2022,20619,CNG,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,1155000.0
+2014 Maruti Alto 800 LXI,Noida,Hatchback,2014,40783,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,214000.0
+2014 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2014,31827,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,207000.0
+2015 Maruti Swift Dzire VXI,Faridabad,Hatchback,2015,84530,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,369000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2017,49544,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,454000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2020,33723,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,583000.0
+2014 Maruti Swift VXI,Noida,Hatchback,2014,69389,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,333000.0
+2013 Maruti Swift Dzire VXI,Ghaziabad,Hatchback,2013,33244,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,378000.0
+2017 Maruti Swift Dzire ZXI,Faridabad,Hatchback,2017,34196,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,519000.0
+2017 Maruti Alto 800 LXI CNG O,Delhi,Hatchback,2017,76356,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,285000.0
+2016 Maruti Ciaz ZXI+ AT,Gurugram,Sedan,2016,90742,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,567000.0
+2015 Maruti Alto K10 VXI,Noida,Hatchback,2015,51243,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,243000.0
+2014 Maruti Celerio VXI AMT,Ghaziabad,Hatchback,2014,76296,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,306000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Faridabad,Hatchback,2018,48605,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,388000.0
+2020 Maruti New Wagon-R VXI 1.2,Delhi,Other,2020,20785,Petrol,Manual,1,,,,,,511000.0
+2014 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2014,53375,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,270000.0
+2016 Maruti Baleno DELTA DIESEL 1.3,Noida,Hatchback,2016,62767,Diesel,Manual,1,22.3,1197.0,89.0,5.0,900000.0,546000.0
+2015 Maruti Ertiga VXI CNG,Ghaziabad,MPV,2015,31504,CNG,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,665000.0
+2017 Maruti Celerio ZXI,Faridabad,Hatchback,2017,27882,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,388000.0
+2014 Maruti Swift Dzire VXI,Delhi,Hatchback,2014,42022,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,390000.0
+2017 Maruti Celerio VXI CNG,Gurugram,Hatchback,2017,79682,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,403000.0
+2017 Maruti Wagon R 1.0 VXI AMT,Noida,Hatchback,2017,65289,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,366000.0
+2013 Maruti Wagon R 1.0 LXI CNG,Ghaziabad,Hatchback,2013,80601,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,286000.0
+2014 Maruti Celerio VXI AMT,Faridabad,Hatchback,2014,32718,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,329000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2017,77650,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,521000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2021,14683,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,779000.0
+2013 Maruti Wagon R 1.0 LXI CNG,Noida,Hatchback,2013,75349,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,267000.0
+2021 Maruti New Wagon-R LXI CNG 1.0,Ghaziabad,Other,2021,13032,CNG,Manual,1,,,,,,570000.0
+2022 Maruti S PRESSO VXI (O) CNG,Faridabad,Other,2022,31772,CNG,Manual,1,,,,,,488000.0
+2018 Maruti IGNIS ZETA 1.2 AMT,Delhi,Hatchback,2018,76787,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,467000.0
+2016 Maruti Ertiga VXI,Gurugram,MPV,2016,69763,CNG,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,689000.0
+2016 Maruti Alto 800 LXI,Noida,Hatchback,2016,45935,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,251000.0
+2020 Maruti New Wagon-R LXI CNG 1.0,Ghaziabad,Other,2020,12950,CNG,Manual,2,,,,,,497000.0
+2016 Maruti Celerio VXI CNG,Faridabad,Hatchback,2016,90267,CNG,Manual,2,25.0,998.0,66.0,5.0,700000.0,385000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2017,35708,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,515000.0
+2013 Maruti Wagon R 1.0 LXI,Gurugram,Hatchback,2013,44009,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,299000.0
+2016 Maruti Swift VXI,Noida,Hatchback,2016,71405,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,493000.0
+2014 Maruti Swift VXI,Ghaziabad,Hatchback,2014,17595,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,428000.0
+2019 Maruti Alto VXI,Faridabad,Hatchback,2019,8064,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,385000.0
+2013 Maruti Alto 800 LXI CNG,Delhi,Hatchback,2013,90913,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,243000.0
+2021 Maruti New Wagon-R LXI CNG (O) 1.0,Gurugram,Other,2021,51151,CNG,Manual,1,,,,,,585000.0
+2013 Maruti Swift VXI,Noida,Hatchback,2013,87034,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,351000.0
+2017 Maruti Celerio ZXI,Ghaziabad,Hatchback,2017,60005,Petrol,Manual,3,25.0,998.0,66.0,5.0,700000.0,331000.0
+2022 Maruti S PRESSO VXI+,Faridabad,Other,2022,16213,Petrol,Manual,1,,,,,,470000.0
+2013 Maruti Alto K10 LXI,Delhi,Hatchback,2013,18101,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,245000.0
+2015 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2015,56620,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,358000.0
+2022 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2022,7097,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,612000.0
+2017 Maruti Dzire ZXI AMT,Ghaziabad,Sedan,2017,37274,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,621000.0
+2023 Maruti BREZZA VXI SMART HYBRID,Faridabad,SUV,2023,21217,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,973000.0
+2018 Maruti IGNIS DELTA 1.2,Delhi,Hatchback,2018,54728,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,409000.0
+2015 Maruti Swift Dzire VXI,Gurugram,Hatchback,2015,96263,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,468000.0
+2011 Maruti Alto K10 VXI,Noida,Hatchback,2011,123621,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,170000.0
+2015 Maruti Alto K10 VXI AMT,Ghaziabad,Hatchback,2015,30634,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,319000.0
+2018 Maruti IGNIS SIGMA 1.2,Faridabad,Hatchback,2018,57747,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,381000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,52736,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,476000.0
+2016 Maruti Swift ZXI,Gurugram,Hatchback,2016,64434,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,448000.0
+2017 Maruti Swift VXI,Noida,Hatchback,2017,42316,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,454000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2017,110283,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,518000.0
+2017 Maruti Alto K10 LXI CNG (AIRBAG),Faridabad,Hatchback,2017,98581,CNG,Manual,2,24.0,998.0,66.0,5.0,600000.0,327000.0
+2018 Maruti Celerio VXI CNG,Delhi,Hatchback,2018,90082,CNG,Manual,2,25.0,998.0,66.0,5.0,700000.0,435000.0
+2018 Maruti Dzire VDI AMT,Gurugram,Sedan,2018,100984,Diesel,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,652000.0
+2018 Maruti Dzire VDI,Noida,Sedan,2018,83762,Diesel,Manual,2,23.0,1197.0,89.0,5.0,900000.0,635000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2019,39639,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,524000.0
+2014 Maruti Celerio ZXI,Faridabad,Hatchback,2014,37678,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,330000.0
+2017 Maruti Wagon R 1.0 VXI (O) AMT,Delhi,Hatchback,2017,70769,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,347000.0
+2019 Maruti Celerio ZXI,Gurugram,Hatchback,2019,37817,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,439000.0
+2013 Maruti Swift VXI,Noida,Hatchback,2013,88376,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,357000.0
+2017 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2017,32701,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,347000.0
+2021 Maruti XL6 ZETA MT,Faridabad,MPV,2021,19967,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,976000.0
+2015 Maruti Celerio ZXI (O),Delhi,Hatchback,2015,27204,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,375000.0
+2013 Maruti Swift Dzire ZDI,Gurugram,Hatchback,2013,96999,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,544000.0
+2017 Maruti Celerio ZXI AMT (O),Noida,Hatchback,2017,67082,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,404000.0
+2019 Maruti IGNIS DELTA 1.2,Ghaziabad,Hatchback,2019,69689,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,449000.0
+2020 Maruti Baleno DELTA CVT PETROL 1.2,Faridabad,Hatchback,2020,32117,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,677000.0
+2019 Maruti Celerio VXI CNG,Delhi,Hatchback,2019,59169,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,500000.0
+2014 Maruti Swift Dzire VXI,Gurugram,Hatchback,2014,63296,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,435000.0
+2020 Maruti IGNIS ZETA 1.2 AMT,Noida,Hatchback,2020,58158,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,547000.0
+2017 Maruti Swift VXI,Ghaziabad,Hatchback,2017,116084,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,453000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Faridabad,Hatchback,2017,69911,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,535000.0
+2011 Maruti Swift Dzire ZXI,Delhi,Hatchback,2011,39721,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,307000.0
+2014 Maruti Alto K10 LXI,Gurugram,Hatchback,2014,53066,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,234000.0
+2020 Maruti New Wagon-R VXI 1.0 AMT,Noida,Other,2020,52105,Petrol,Automatic,1,,,,,,470000.0
+2017 Maruti Ciaz SIGMA 1.4 MT PETROL,Ghaziabad,Sedan,2017,51872,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,579000.0
+2021 Maruti Celerio ZXI (O),Faridabad,Hatchback,2021,38233,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,491000.0
+2013 Maruti Swift Dzire VDI,Delhi,Hatchback,2013,100777,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,454000.0
+2022 Maruti Baleno ALPHA 1.2 AGS,Gurugram,Hatchback,2022,27338,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,921000.0
+2013 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2013,75649,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,287000.0
+2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Ghaziabad,Sedan,2020,63804,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,737000.0
+2019 Maruti New Wagon-R ZXI 1.2 AMT,Faridabad,Other,2019,71773,Petrol,Automatic,1,,,,,,497000.0
+2017 Maruti Alto 800 LXI,Delhi,Hatchback,2017,69275,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,294000.0
+2012 Maruti Alto K10 VXI,Gurugram,Hatchback,2012,72136,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,193000.0
+2020 Maruti Celerio VXI (O) CNG,Noida,Hatchback,2020,37683,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,552000.0
+2022 Maruti Vitara Brezza ZXI PLUS AT SHVS,Ghaziabad,SUV,2022,11953,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,1089000.0
+2012 Maruti Wagon R 1.0 LXI CNG,Faridabad,Hatchback,2012,105803,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,285000.0
+2020 Maruti S PRESSO VXI CNG,Delhi,Other,2020,41534,CNG,Manual,1,,,,,,429000.0
+2022 Maruti IGNIS DELTA 1.2,Gurugram,Hatchback,2022,11679,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,565000.0
+2018 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2018,44226,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,588000.0
+2018 Maruti Celerio VXI (O) CNG,Ghaziabad,Hatchback,2018,108085,CNG,Manual,2,25.0,998.0,66.0,5.0,700000.0,434000.0
+2023 Maruti BREZZA ZXI SMART HYBRID DUAL TONE,Faridabad,SUV,2023,8892,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1220000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2020,28539,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,886000.0
+2016 Maruti Ciaz VXI,Gurugram,Sedan,2016,39516,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,600000.0
+2017 Maruti Alto K10 VXI (O) AMT,Noida,Hatchback,2017,51875,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,318000.0
+2015 Maruti Ciaz ZXI AT,Ghaziabad,Sedan,2015,80161,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,522000.0
+2016 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2016,78845,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,373000.0
+2016 Maruti Celerio ZXI AMT,Delhi,Hatchback,2016,94780,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,393000.0
+2019 Maruti Celerio VXI AMT,Gurugram,Hatchback,2019,36411,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,466000.0
+2015 Maruti Ciaz VXI+,Noida,Sedan,2015,77033,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,519000.0
+2022 Maruti S PRESSO VXI (O) CNG,Ghaziabad,Other,2022,20971,CNG,Manual,1,,,,,,484000.0
+2020 Maruti S PRESSO VXI PLUS AMT,Faridabad,Other,2020,17104,Petrol,Automatic,1,,,,,,446000.0
+2017 Maruti Dzire ZXI AMT,Delhi,Sedan,2017,99905,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,560000.0
+2016 Maruti Ciaz ZXI,Gurugram,Sedan,2016,50044,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,578000.0
+2023 Maruti New Wagon-R VXI 1.0 AMT,Noida,Other,2023,12621,Petrol,Automatic,1,,,,,,651000.0
+2019 Maruti S PRESSO VXI AMT,Ghaziabad,Other,2019,27670,Petrol,Automatic,2,,,,,,441000.0
+2023 Maruti S PRESSO VXI PLUS (O) AMT,Faridabad,Other,2023,1207,Petrol,Automatic,1,,,,,,552000.0
+2012 Maruti Swift Dzire VDI,Delhi,Hatchback,2012,100146,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,450000.0
+2013 Maruti Wagon R 1.0 LXI,Gurugram,Hatchback,2013,44631,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,297000.0
+2018 Maruti Ciaz ZETA 1.4 AT PETROL,Noida,Sedan,2018,85512,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,664000.0
+2022 Maruti S PRESSO VXI+,Ghaziabad,Other,2022,13814,Petrol,Manual,1,,,,,,483000.0
+2014 Maruti Swift Dzire VXI,Faridabad,Hatchback,2014,124716,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,412000.0
+2018 Maruti Celerio X ZXI (O) AMT,Delhi,Hatchback,2018,41964,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,413000.0
+2019 Maruti New Wagon-R VXI (O) 1.0,Gurugram,Other,2019,57936,Petrol,Manual,1,,,,,,475000.0
+2011 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2011,85612,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,245000.0
+2015 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2015,52911,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,345000.0
+2023 Maruti XL6 ALPHA PLUS MT,Faridabad,MPV,2023,28161,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1258000.0
+2014 Maruti Swift Dzire VXI,Delhi,Hatchback,2014,41277,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,456000.0
+2020 Maruti Vitara Brezza ZXI PLUS AT SHVS,Gurugram,SUV,2020,39121,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,936000.0
+2018 Maruti Celerio X ZXI,Noida,Hatchback,2018,31440,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,462000.0
+2022 Maruti XL6 ALPHA PLUS AT,Ghaziabad,MPV,2022,10786,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,1408000.0
+2012 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2012,71136,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,266000.0
+2021 Maruti Celerio VXI,Delhi,Hatchback,2021,45951,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,501000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Gurugram,Hatchback,2016,62835,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,361000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Noida,Hatchback,2016,85873,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,358000.0
+2012 Maruti Wagon R 1.0 LXI,Ghaziabad,Hatchback,2012,63196,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,278000.0
+2012 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2012,79028,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,266000.0
+2018 Maruti Celerio X ZXI (O),Delhi,Hatchback,2018,22237,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,510000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Gurugram,Hatchback,2014,82634,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,358000.0
+2014 Maruti Swift VXI,Noida,Hatchback,2014,55450,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,431000.0
+2019 Maruti New Wagon-R LXI CNG 1.0,Ghaziabad,Other,2019,63339,CNG,Manual,2,,,,,,489000.0
+2013 Maruti Ertiga VXI,Faridabad,MPV,2013,48598,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,547000.0
+2016 Maruti Swift Dzire ZXI,Delhi,Hatchback,2016,31322,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,525000.0
+2014 Maruti Swift VXI,Gurugram,Hatchback,2014,80409,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,377000.0
+2016 Maruti Swift VXI,Noida,Hatchback,2016,75058,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,472000.0
+2014 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2014,60963,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,211000.0
+2017 Maruti Celerio VXI (O) CNG,Faridabad,Hatchback,2017,78252,CNG,Manual,2,25.0,998.0,66.0,5.0,700000.0,378000.0
+2017 Maruti Alto K10 VXI (O) AMT,Delhi,Hatchback,2017,70605,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,323000.0
+2016 Maruti Alto K10 VXI AMT,Gurugram,Hatchback,2016,94154,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,297000.0
+2022 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2022,25919,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,710000.0
+2014 Maruti Swift Dzire VXI,Ghaziabad,Hatchback,2014,27791,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,485000.0
+2020 Maruti Celerio VXI (O) CNG,Faridabad,Hatchback,2020,40609,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,565000.0
+2017 Maruti Ciaz VXI+,Delhi,Sedan,2017,62978,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,520000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Gurugram,Hatchback,2017,115719,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,397000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2017,27135,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,544000.0
+2014 Maruti Wagon R 1.0 LXI CNG,Ghaziabad,Hatchback,2014,65835,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,356000.0
+2018 Maruti Celerio VXI (O) CNG,Faridabad,Hatchback,2018,57098,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,488000.0
+2017 Maruti IGNIS ALPHA 1.2,Delhi,Hatchback,2017,34421,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,449000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2021,4744,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,825000.0
+2014 Maruti Wagon R Stingray VXI,Noida,Hatchback,2014,80360,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,294000.0
+2019 Maruti New Wagon-R VXI 1.0 AMT,Ghaziabad,Other,2019,32605,Petrol,Automatic,2,,,,,,496000.0
+2015 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2015,43688,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,349000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2017,58845,CNG,Manual,2,22.0,1197.0,88.0,5.0,750000.0,414000.0
+2018 Maruti Ciaz SIGMA 1.4 MT PETROL,Gurugram,Sedan,2018,23948,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,641000.0
+2018 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2018,98346,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,484000.0
+2016 Maruti Swift VXI,Ghaziabad,Hatchback,2016,62561,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,469000.0
+2020 Maruti New Wagon-R LXI CNG 1.0,Faridabad,Other,2020,61137,CNG,Manual,1,,,,,,525000.0
+2014 Maruti Alto 800 LXI,Delhi,Hatchback,2014,107619,CNG,Manual,3,24.0,998.0,66.0,5.0,600000.0,181000.0
+2012 Maruti Swift Dzire VXI,Gurugram,Hatchback,2012,64036,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,362000.0
+2013 Maruti Ertiga VXI CNG,Noida,MPV,2013,69001,CNG,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,587000.0
+2016 Maruti Celerio VXI CNG,Ghaziabad,Hatchback,2016,10347,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,426000.0
+2015 Maruti Alto K10 VXI AMT,Faridabad,Hatchback,2015,31342,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,296000.0
+2015 Maruti Swift Dzire VDI ABS,Delhi,Hatchback,2015,70911,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,602000.0
+2012 Maruti Swift VDI,Gurugram,Hatchback,2012,82541,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,439000.0
+2022 Maruti New Wagon-R ZXI 1.2,Noida,Other,2022,9464,Petrol,Manual,1,,,,,,548000.0
+2021 Maruti Vitara Brezza VXI AT SHVS,Ghaziabad,SUV,2021,17902,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,838000.0
+2020 Maruti Alto LXI,Faridabad,Hatchback,2020,37246,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,354000.0
+2013 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2013,24588,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,304000.0
+2016 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2016,60938,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,551000.0
+2013 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2013,60787,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,274000.0
+2021 Maruti New Wagon-R VXI 1.2,Ghaziabad,Other,2021,7994,Petrol,Manual,1,,,,,,513000.0
+2018 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2018,46150,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,515000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,8433,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,507000.0
+2013 Maruti Wagon R 1.0 LXI CNG,Gurugram,Hatchback,2013,115715,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,294000.0
+2023 Maruti New Wagon-R LXI 1.0,Noida,Other,2023,5169,Petrol,Manual,1,,,,,,589000.0
+2018 Maruti Celerio VXI CNG,Ghaziabad,Hatchback,2018,99211,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,459000.0
+2016 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2016,36942,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,348000.0
+2023 Maruti New Wagon-R ZXI 1.2,Delhi,Other,2023,11054,Petrol,Manual,1,,,,,,614000.0
+2022 Maruti New Wagon-R LXI 1.0,Gurugram,Other,2022,20485,Petrol,Manual,1,,,,,,521000.0
+2019 Maruti XL6 ZETA AT,Noida,MPV,2019,48847,Petrol,Automatic,2,20.3,1462.0,103.0,6.0,1200000.0,956000.0
+2017 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2017,22789,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,424000.0
+2015 Maruti Swift Dzire ZXI,Faridabad,Hatchback,2015,65005,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,445000.0
+2013 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2013,57444,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,286000.0
+2021 Maruti Baleno DELTA CVT PETROL 1.2,Gurugram,Hatchback,2021,19045,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,700000.0
+2022 Maruti Eeco 5 STR STD(O),Noida,MPV,2022,6841,Petrol,Manual,1,19.7,1196.0,79.0,5.0,650000.0,467000.0
+2019 Maruti XL6 ZETA AT,Ghaziabad,MPV,2019,54342,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,921000.0
+2022 Maruti XL6 ALPHA PLUS MT,Faridabad,MPV,2022,43830,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1220000.0
+2022 Maruti XL6 ALPHA PLUS AT,Delhi,MPV,2022,40395,Petrol,Automatic,2,20.3,1462.0,103.0,6.0,1200000.0,1185000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2021,39141,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,700000.0
+2015 Maruti Swift Dzire VXI,Noida,Hatchback,2015,82619,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,389000.0
+2018 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Ghaziabad,Sedan,2018,45236,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,687000.0
+2015 Maruti Alto K10 VXI,Faridabad,Hatchback,2015,75053,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,243000.0
+2020 Maruti Dzire VXI,Delhi,Sedan,2020,107988,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,546000.0
+2022 Maruti XL6 ZETA MT,Gurugram,MPV,2022,16283,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1103000.0
+2018 Maruti Alto K10 VXI,Noida,Hatchback,2018,52966,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,308000.0
+2016 Maruti Baleno DELTA CVT PETROL 1.2,Ghaziabad,Hatchback,2016,81039,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,453000.0
+2017 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2017,36674,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,363000.0
+2020 Maruti Vitara Brezza LXI,Delhi,SUV,2020,29871,Petrol,Manual,2,18.7,1462.0,103.0,5.0,1150000.0,633000.0
+2016 Maruti Alto 800 LXI,Gurugram,Hatchback,2016,29295,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,264000.0
+2019 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2019,51244,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,472000.0
+2019 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2019,59733,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,756000.0
+2020 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Faridabad,Sedan,2020,26199,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,887000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2017,42752,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,564000.0
+2022 Maruti XL6 ZETA MT,Gurugram,MPV,2022,49458,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,973000.0
+2020 Maruti Alto VXI,Noida,Hatchback,2020,27947,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,332000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2020,60935,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,598000.0
+2022 Maruti Alto LXI O,Faridabad,Hatchback,2022,13283,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,377000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Delhi,Sedan,2017,92386,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,609000.0
+2020 Maruti Vitara Brezza VXI,Gurugram,SUV,2020,24819,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,710000.0
+2013 Maruti Wagon R Stingray VXI,Noida,Hatchback,2013,70322,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,250000.0
+2019 Maruti Dzire LXI,Ghaziabad,Sedan,2019,29453,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,528000.0
+2022 Maruti Vitara Brezza LXI,Faridabad,SUV,2022,36045,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,700000.0
+2019 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Delhi,Sedan,2019,39821,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,839000.0
+2019 Maruti Dzire LXI,Gurugram,Sedan,2019,33972,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,511000.0
+2019 Maruti Dzire ZXI PLUS,Noida,Sedan,2019,109938,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,570000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Ghaziabad,Hatchback,2016,21218,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,369000.0
+2022 Maruti XL6 ALPHA PLUS AT DUAL TONE,Faridabad,MPV,2022,6634,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,1288000.0
+2019 Maruti S PRESSO VXI PLUS AMT,Delhi,Other,2019,26471,Petrol,Automatic,1,,,,,,412000.0
+2022 Maruti Alto VXI,Gurugram,Hatchback,2022,27014,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,398000.0
+2019 Maruti Swift ZXI,Noida,Hatchback,2019,43834,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,577000.0
+2019 Maruti Vitara Brezza VDI AMT,Ghaziabad,SUV,2019,86541,Diesel,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,627000.0
+2017 Maruti Alto K10 VXI (O) AMT,Faridabad,Hatchback,2017,42926,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,341000.0
+2019 Maruti Swift LXI,Delhi,Hatchback,2019,57073,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,455000.0
+2021 Maruti Swift VXI AMT,Gurugram,Hatchback,2021,11486,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,635000.0
+2018 Maruti Celerio VXI,Noida,Hatchback,2018,11942,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,397000.0
+2019 Maruti Swift VXI,Ghaziabad,Hatchback,2019,67091,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,525000.0
+2022 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2022,25782,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,677000.0
+2020 Maruti Vitara Brezza VXI AT SHVS,Delhi,SUV,2020,30949,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,809000.0
+2018 Maruti Dzire ZXI AMT,Gurugram,Sedan,2018,50947,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,596000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Noida,SUV,2023,8502,Petrol,Manual,2,18.7,1462.0,103.0,5.0,1150000.0,1026000.0
+2022 Maruti Swift ZXI PLUS,Ghaziabad,Hatchback,2022,24626,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,721000.0
+2021 Maruti IGNIS ALPHA 1.2 AMT,Faridabad,Hatchback,2021,38768,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,665000.0
+2022 Maruti Swift VXI,Delhi,Hatchback,2022,35218,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,631000.0
+2022 Maruti IGNIS DELTA 1.2,Gurugram,Hatchback,2022,18015,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,533000.0
+2015 Maruti Swift Dzire ZXI,Noida,Hatchback,2015,43488,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,424000.0
+2022 Maruti Eeco 5 STR AC CNG,Ghaziabad,MPV,2022,10783,CNG,Manual,1,19.7,1196.0,79.0,5.0,650000.0,599000.0
+2017 Maruti Celerio VXI AMT,Faridabad,Hatchback,2017,22156,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,407000.0
+2016 Maruti Swift LXI (O),Delhi,Hatchback,2016,69235,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,337000.0
+2017 Maruti Wagon R 1.0 VXI+,Gurugram,Hatchback,2017,60446,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,350000.0
+2021 Maruti Dzire ZXI Plus AMT,Noida,Sedan,2021,23264,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,667000.0
+2016 Maruti Ciaz VXI,Ghaziabad,Sedan,2016,123772,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,419000.0
+2023 Maruti IGNIS SIGMA 1.2,Faridabad,Hatchback,2023,10469,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,523000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2016,33099,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,477000.0
+2021 Maruti Alto LXI OPT CNG,Gurugram,Hatchback,2021,38458,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,402000.0
+2018 Maruti Alto K10 VXI (O) AMT,Noida,Hatchback,2018,40632,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,337000.0
+2014 Maruti Ciaz VXI+,Ghaziabad,Sedan,2014,39298,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,452000.0
+2015 Maruti Alto K10 VXI,Faridabad,Hatchback,2015,45475,Petrol,Manual,3,24.0,998.0,66.0,5.0,600000.0,227000.0
+2019 Maruti Vitara Brezza ZDI,Delhi,SUV,2019,102604,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,686000.0
+2019 Maruti XL6 ZETA AT,Gurugram,MPV,2019,62418,Petrol,Automatic,2,20.3,1462.0,103.0,6.0,1200000.0,819000.0
+2019 Maruti New Wagon-R VXI 1.2,Noida,Other,2019,19085,Petrol,Manual,1,,,,,,464000.0
+2023 Maruti Alto K10 LXI,Ghaziabad,Hatchback,2023,14943,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,435000.0
+2016 Maruti Alto K10 VXI,Faridabad,Hatchback,2016,86421,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,266000.0
+2022 Maruti Ciaz ZETA AT 1.5 SHVS PETROL,Delhi,Sedan,2022,24062,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,1062000.0
+2017 Maruti Dzire LXI,Gurugram,Sedan,2017,22148,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,470000.0
+2013 Maruti Swift LXI,Noida,Hatchback,2013,61671,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,283000.0
+2021 Maruti IGNIS ALPHA 1.2,Ghaziabad,Hatchback,2021,30314,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,622000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2019,32866,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,584000.0
+2021 Maruti Alto LXI,Delhi,Hatchback,2021,8830,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,366000.0
+2020 Maruti New Wagon-R LXI CNG (O) 1.0,Gurugram,Other,2020,65081,CNG,Manual,1,,,,,,487000.0
+2011 Maruti Wagon R 1.0 LX,Noida,Hatchback,2011,93282,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,162000.0
+2020 Maruti Baleno SIGMA PETROL 1.2,Ghaziabad,Hatchback,2020,25069,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,551000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Faridabad,Hatchback,2019,15895,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,681000.0
+2015 Maruti Celerio VXI,Delhi,Hatchback,2015,75874,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,303000.0
+2021 Maruti New Wagon-R LXI CNG 1.0,Gurugram,Other,2021,43689,CNG,Manual,1,,,,,,503000.0
+2021 Maruti IGNIS SIGMA 1.2,Noida,Hatchback,2021,25742,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,479000.0
+2018 Maruti Swift ZXI PLUS,Ghaziabad,Hatchback,2018,27356,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,594000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2020,27841,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,594000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Delhi,Sedan,2017,93015,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,583000.0
+2022 Maruti New Wagon-R ZXI 1.2,Gurugram,Other,2022,32238,Petrol,Manual,2,,,,,,498000.0
+2021 Maruti Vitara Brezza VXI AT SHVS,Noida,SUV,2021,57060,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,842000.0
+2021 Maruti Dzire VXI AMT,Ghaziabad,Sedan,2021,49622,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,660000.0
+2016 Maruti Celerio VXI,Faridabad,Hatchback,2016,54080,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,301000.0
+2016 Maruti Alto 800 LXI,Delhi,Hatchback,2016,97698,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,221000.0
+2022 Maruti Baleno ALPHA 1.2 AGS,Gurugram,Hatchback,2022,27052,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,843000.0
+2015 Maruti Swift Dzire LXI (O),Noida,Hatchback,2015,39849,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,392000.0
+2012 Maruti Swift LXI,Ghaziabad,Hatchback,2012,41942,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,254000.0
+2023 Maruti Alto K10 VXI,Faridabad,Hatchback,2023,21607,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,469000.0
+2011 Maruti Swift LXI,Delhi,Hatchback,2011,31841,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,208000.0
+2017 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2017,43944,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,359000.0
+2016 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2016,89506,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,470000.0
+2015 Maruti Swift VXI,Ghaziabad,Hatchback,2015,102460,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,349000.0
+2012 Maruti Ertiga VXI,Faridabad,MPV,2012,54751,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,401000.0
+2020 Maruti Baleno ALPHA CVT PETROL 1.2,Delhi,Hatchback,2020,15673,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,763000.0
+2018 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Gurugram,Sedan,2018,52662,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,554000.0
+2018 Maruti Celerio ZXI,Noida,Hatchback,2018,60902,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,371000.0
+2013 Maruti Swift VXI,Ghaziabad,Hatchback,2013,82496,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,299000.0
+2017 Maruti Ciaz ALPHA AT 1.4 PETROL,Faridabad,Sedan,2017,90015,CNG,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,635000.0
+2016 Maruti Ciaz ZXI,Delhi,Sedan,2016,57286,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,528000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2019,65056,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,523000.0
+2018 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2018,45853,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,516000.0
+2019 Maruti Celerio VXI,Ghaziabad,Hatchback,2019,63194,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,406000.0
+2018 Maruti Swift ZXI PLUS,Faridabad,Hatchback,2018,21574,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,640000.0
+2016 Maruti Ciaz ZXI+,Delhi,Sedan,2016,87163,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,526000.0
+2022 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2022,12432,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,755000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2021,41436,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,604000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2019,47849,CNG,Manual,2,22.3,1197.0,89.0,5.0,900000.0,548000.0
+2016 Maruti Swift LXI,Faridabad,Hatchback,2016,82344,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,343000.0
+2015 Maruti Swift LXI (O),Delhi,Hatchback,2015,71287,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,335000.0
+2019 Maruti IGNIS DELTA 1.2 AMT,Gurugram,Hatchback,2019,8644,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,526000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Noida,Hatchback,2018,54458,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,560000.0
+2015 Maruti Swift Dzire LXI (O),Ghaziabad,Hatchback,2015,35817,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,393000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2017,47472,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,490000.0
+2022 Maruti IGNIS ZETA 1.2 AMT,Delhi,Hatchback,2022,36051,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,673000.0
+2018 Maruti IGNIS DELTA 1.2 AMT,Gurugram,Hatchback,2018,26662,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,484000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2017,91549,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,502000.0
+2020 Maruti S PRESSO VXI+,Ghaziabad,Other,2020,31102,Petrol,Manual,2,,,,,,378000.0
+2012 Maruti Swift VXI,Faridabad,Hatchback,2012,34096,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,265000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2019,59602,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,561000.0
+2022 Maruti Alto VXI,Gurugram,Hatchback,2022,2116,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,406000.0
+2016 Maruti Ciaz ZXI,Noida,Sedan,2016,107298,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,474000.0
+2014 Maruti Swift Dzire ZXI,Ghaziabad,Hatchback,2014,78609,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,333000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2021,33717,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,622000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Delhi,Hatchback,2016,86692,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,324000.0
+2021 Maruti Baleno SIGMA PETROL 1.2,Gurugram,Hatchback,2021,20654,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,573000.0
+2016 Maruti Ciaz VXI,Noida,Sedan,2016,60410,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,493000.0
+2015 Maruti Swift Dzire LXI (O),Ghaziabad,Hatchback,2015,27571,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,392000.0
+2015 Maruti Swift VXI,Faridabad,Hatchback,2015,59260,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,373000.0
+2015 Maruti Ciaz VXI+,Delhi,Sedan,2015,56400,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,485000.0
+2011 Maruti Swift VXI,Gurugram,Hatchback,2011,48906,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,222000.0
+2014 Maruti Swift LXI (O),Noida,Hatchback,2014,72832,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,320000.0
+2020 Maruti S PRESSO LXI,Ghaziabad,Other,2020,26213,Petrol,Manual,2,,,,,,332000.0
+2022 Maruti Ciaz ZETA AT 1.5 SHVS PETROL,Faridabad,Sedan,2022,21566,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,1048000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2017,117691,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,334000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2017,105428,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,449000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2016,94626,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,419000.0
+2019 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2019,74343,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,427000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,32631,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,273000.0
+2016 Maruti Celerio ZXI AMT,Delhi,Hatchback,2016,37597,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,379000.0
+2022 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,Gurugram,Sedan,2022,35472,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,915000.0
+2019 Maruti Baleno DELTA CVT PETROL 1.2,Noida,Hatchback,2019,36124,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,590000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2021,33848,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,644000.0
+2020 Maruti Baleno ALPHA CVT PETROL 1.2,Faridabad,Hatchback,2020,27579,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,699000.0
+2022 Maruti Alto VXI,Delhi,Hatchback,2022,34574,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,368000.0
+2020 Maruti New Wagon-R VXI 1.0 AMT,Gurugram,Other,2020,41307,Petrol,Automatic,2,,,,,,477000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2017,29628,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,503000.0
+2019 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2019,41735,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,749000.0
+2020 Maruti New Wagon-R LXI 1.0,Faridabad,Other,2020,20914,Petrol,Manual,1,,,,,,472000.0
+2018 Maruti Alto 800 LXI O,Delhi,Hatchback,2018,68062,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,298000.0
+2022 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,Gurugram,Sedan,2022,15892,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,932000.0
+2015 Maruti Baleno ALPHA DIESEL 1.3,Noida,Hatchback,2015,70867,Diesel,Manual,2,22.3,1197.0,89.0,5.0,900000.0,451000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2019,65533,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,529000.0
+2022 Maruti New Wagon-R ZXI 1.2,Faridabad,Other,2022,13103,Petrol,Manual,1,,,,,,545000.0
+2018 Maruti Alto 800 LXI,Delhi,Hatchback,2018,89267,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,278000.0
+2020 Maruti Alto VXI,Gurugram,Hatchback,2020,35457,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,336000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2021,29923,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,633000.0
+2011 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2011,63048,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,154000.0
+2016 Maruti Alto K10 VXI AMT,Faridabad,Hatchback,2016,48331,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,294000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2021,28415,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,644000.0
+2017 Maruti Celerio VXI CNG,Gurugram,Hatchback,2017,103154,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,368000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2017,33665,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,506000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2020,55790,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,631000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2021,25705,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,644000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2019,35190,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,551000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2019,43478,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,600000.0
+2015 Maruti Ciaz VXI+,Noida,Sedan,2015,109535,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,462000.0
+2017 Maruti Celerio ZXI AMT (O),Ghaziabad,Hatchback,2017,41734,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,395000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2020,60770,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,598000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2018,91668,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,373000.0
+2018 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Gurugram,Sedan,2018,43343,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,630000.0
+2017 Maruti Swift LXI (O),Noida,Hatchback,2017,23582,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,436000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Ghaziabad,Sedan,2017,43537,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,642000.0
+2017 Maruti Swift LXI (O),Faridabad,Hatchback,2017,42401,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,417000.0
+2018 Maruti Celerio X ZXI (O) AMT,Delhi,Hatchback,2018,50012,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,411000.0
+2020 Maruti S PRESSO VXI+,Gurugram,Other,2020,18442,Petrol,Manual,1,,,,,,410000.0
+2015 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2015,69216,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,425000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Ghaziabad,Hatchback,2018,87192,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,373000.0
+2015 Maruti Ciaz VXI+,Faridabad,Sedan,2015,119077,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,435000.0
+2011 Maruti Swift VXI,Delhi,Hatchback,2011,68075,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,218000.0
+2019 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Gurugram,Sedan,2019,46573,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,733000.0
+2022 Maruti Dzire ZXI CNG,Noida,Sedan,2022,47217,CNG,Manual,2,23.0,1197.0,89.0,5.0,900000.0,802000.0
+2022 Maruti New Wagon-R VXI (O) 1.2,Ghaziabad,Other,2022,12195,Petrol,Manual,1,,,,,,533000.0
+2020 Maruti New Wagon-R LXI 1.0,Faridabad,Other,2020,24266,Petrol,Manual,1,,,,,,479000.0
+2018 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2018,104059,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,648000.0
+2020 Maruti S PRESSO VXI+,Gurugram,Other,2020,15966,Petrol,Manual,1,,,,,,407000.0
+2018 Maruti Dzire LXI,Noida,Sedan,2018,38776,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,510000.0
+2022 Maruti S PRESSO VXI+,Ghaziabad,Other,2022,21688,Petrol,Manual,2,,,,,,425000.0
+2019 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Faridabad,Sedan,2019,27877,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,804000.0
+2017 Maruti Celerio VXI AMT,Delhi,Hatchback,2017,80495,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,358000.0
+2020 Maruti New Wagon-R LXI CNG (O) 1.0,Gurugram,Other,2020,72472,CNG,Manual,1,,,,,,506000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2017,29508,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,506000.0
+2015 Maruti Wagon R Stingray VXI,Ghaziabad,Hatchback,2015,66325,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,312000.0
+2019 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Faridabad,Sedan,2019,66068,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,663000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2020,35495,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,660000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2019,21221,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,623000.0
+2011 Maruti Swift VXI,Noida,Hatchback,2011,28803,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,233000.0
+2017 Maruti Swift LXI (O),Ghaziabad,Hatchback,2017,47968,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,417000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2020,31845,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,659000.0
+2019 Maruti Baleno ALPHA CVT PETROL 1.2,Delhi,Hatchback,2019,47915,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,631000.0
+2020 Maruti S PRESSO LXI,Gurugram,Other,2020,30651,Petrol,Manual,1,,,,,,369000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Noida,Hatchback,2018,36969,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,633000.0
+2022 Maruti New Wagon-R VXI 1.0 AMT,Ghaziabad,Other,2022,22666,Petrol,Automatic,1,,,,,,592000.0
+2011 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2011,31824,Petrol,Manual,3,22.0,1197.0,88.0,5.0,750000.0,201000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2017,41801,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,490000.0
+2018 Maruti Ciaz DELTA 1.4 AT PETROL,Gurugram,Sedan,2018,46722,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,572000.0
+2017 Maruti Swift ZXI,Noida,Hatchback,2017,68287,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,491000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2017,31714,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,503000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Faridabad,Hatchback,2017,69002,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,534000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2020,59534,CNG,Manual,1,22.3,1197.0,89.0,5.0,900000.0,627000.0
+2014 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2014,72090,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,266000.0
+2018 Maruti Baleno DELTA CVT PETROL 1.2,Noida,Hatchback,2018,70189,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,542000.0
+2016 Maruti Celerio ZXI AMT (O),Ghaziabad,Hatchback,2016,47493,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,442000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,53117,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,272000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2018,18854,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,633000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2020,38482,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,608000.0
+2019 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Noida,Sedan,2019,52112,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,741000.0
+2018 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2018,76460,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,677000.0
+2011 Maruti Ritz VXI,Faridabad,Hatchback,2011,43506,Petrol,Manual,1,18.0,1197.0,74.0,5.0,700000.0,182000.0
+2022 Maruti Alto LXI O,Delhi,Hatchback,2022,13185,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,377000.0
+2016 Maruti Celerio VXI AMT,Gurugram,Hatchback,2016,68891,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,355000.0
+2012 Maruti Swift Dzire VXI,Noida,Hatchback,2012,43425,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,256000.0
+2012 Maruti Swift Dzire VXI,Ghaziabad,Hatchback,2012,51629,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,272000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Faridabad,Hatchback,2018,80107,CNG,Manual,3,22.0,1197.0,88.0,5.0,750000.0,394000.0
+2016 Maruti Celerio ZXI AMT,Delhi,Hatchback,2016,84574,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,374000.0
+2014 Maruti Ciaz ZXI,Gurugram,Sedan,2014,81914,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,427000.0
+2013 Maruti Swift Dzire VXI,Noida,Hatchback,2013,82487,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,287000.0
+2019 Maruti New Wagon-R VXI 1.2 AMT,Ghaziabad,Other,2019,12716,Petrol,Automatic,1,,,,,,501000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,64539,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,246000.0
+2015 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2015,33752,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,496000.0
+2019 Maruti Ciaz DELTA AT 1.5 SHVS PETROL,Gurugram,Sedan,2019,31431,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,802000.0
+2019 Maruti S PRESSO VXI PLUS AMT,Noida,Other,2019,28660,Petrol,Automatic,1,,,,,,412000.0
+2012 Maruti Swift Dzire VXI,Ghaziabad,Hatchback,2012,48618,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,287000.0
+2021 Maruti S PRESSO VXI (O),Faridabad,Other,2021,15360,Petrol,Manual,1,,,,,,411000.0
+2013 Maruti Swift Dzire LXI,Delhi,Hatchback,2013,36474,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,319000.0
+2018 Maruti Celerio X ZXI (O) AMT,Gurugram,Hatchback,2018,54533,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,446000.0
+2012 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2012,32625,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,218000.0
+2014 Maruti Swift Dzire ZXI,Ghaziabad,Hatchback,2014,62656,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,400000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,65520,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,267000.0
+2021 Maruti S PRESSO VXI+,Delhi,Other,2021,12058,Petrol,Manual,1,,,,,,432000.0
+2012 Maruti Swift Dzire VXI,Gurugram,Hatchback,2012,54292,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,297000.0
+2019 Maruti Dzire ZXI AMT,Noida,Sedan,2019,80139,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,622000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Ghaziabad,Sedan,2017,77919,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,601000.0
+2018 Maruti Ciaz ZETA 1.4 AT PETROL,Faridabad,Sedan,2018,119884,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,642000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2020,58514,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,631000.0
+2015 Maruti Ciaz VXI+,Gurugram,Sedan,2015,94923,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,490000.0
+2016 Maruti Celerio ZXI AMT,Noida,Hatchback,2016,65734,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,388000.0
+2021 Maruti S PRESSO VXI PLUS AMT,Ghaziabad,Other,2021,27032,Petrol,Automatic,1,,,,,,466000.0
+2011 Maruti Ritz LXI,Faridabad,Hatchback,2011,41367,Petrol,Manual,1,18.0,1197.0,74.0,5.0,700000.0,184000.0
+2017 Maruti Ciaz ZETA 1.4 AT PETROL,Delhi,Sedan,2017,91528,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,608000.0
+2020 Maruti Alto VXI,Gurugram,Hatchback,2020,20288,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,363000.0
+2022 Maruti S PRESSO VXI+,Noida,Other,2022,12690,Petrol,Manual,1,,,,,,455000.0
+2015 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2015,69308,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,425000.0
+2014 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2014,65948,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,275000.0
+2022 Maruti IGNIS SIGMA 1.2,Delhi,Hatchback,2022,35102,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,492000.0
+2020 Maruti Ciaz S 1.5 MT PETROL,Gurugram,Sedan,2020,24961,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,852000.0
+2018 Maruti Dzire LXI,Noida,Sedan,2018,58159,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,477000.0
+2019 Maruti Baleno SIGMA PETROL 1.2,Ghaziabad,Hatchback,2019,60326,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,507000.0
+2022 Maruti Baleno ALPHA 1.2 AGS,Faridabad,Hatchback,2022,5527,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,863000.0
+2016 Maruti Baleno DELTA CVT PETROL 1.2,Delhi,Hatchback,2016,56124,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,471000.0
+2017 Maruti Alto 800 VXI,Gurugram,Hatchback,2017,26537,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,283000.0
+2014 Maruti Alto K10 VXI AMT,Noida,Hatchback,2014,71297,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,265000.0
+2023 Maruti Swift VXI,Ghaziabad,Hatchback,2023,10050,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,650000.0
+2022 Maruti Celerio VXI,Faridabad,Hatchback,2022,12708,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,494000.0
+2021 Maruti IGNIS SIGMA 1.2,Delhi,Hatchback,2021,17472,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,479000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Gurugram,SUV,2023,7048,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1153000.0
+2023 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2023,18868,CNG,Manual,1,22.3,1197.0,89.0,5.0,900000.0,793000.0
+2015 Maruti Ciaz VXI+,Ghaziabad,Sedan,2015,45312,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,468000.0
+2022 Maruti S Cross SIGMA 1.5,Faridabad,Other,2022,15983,Petrol,Manual,1,,,,,,816000.0
+2019 Maruti Celerio VXI CNG,Delhi,Hatchback,2019,60076,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,421000.0
+2017 Maruti Dzire LXI,Gurugram,Sedan,2017,22263,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,484000.0
+2019 Maruti Vitara Brezza VDI AMT,Noida,SUV,2019,59343,Diesel,Automatic,2,18.7,1462.0,103.0,5.0,1150000.0,647000.0
+2018 Maruti Dzire LXI,Ghaziabad,Sedan,2018,59288,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,477000.0
+2019 Maruti Eeco 5 STR WITH A/C+HTR CNG,Faridabad,MPV,2019,62412,CNG,Manual,2,19.7,1196.0,79.0,5.0,650000.0,417000.0
+2013 Maruti Alto K10 LXI,Delhi,Hatchback,2013,19685,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,216000.0
+2020 Maruti Celerio LXI (O),Gurugram,Hatchback,2020,54485,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,374000.0
+2019 Maruti IGNIS SIGMA 1.2,Noida,Hatchback,2019,20189,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,454000.0
+2022 Maruti New Wagon-R LXI CNG 1.0,Ghaziabad,Other,2022,6799,CNG,Manual,1,,,,,,574000.0
+2017 Maruti IGNIS ZETA 1.2,Faridabad,Hatchback,2017,84544,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,376000.0
+2012 Maruti Ertiga LXI,Delhi,MPV,2012,52584,Petrol,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,330000.0
+2015 Maruti Swift LXI (O),Gurugram,Hatchback,2015,65365,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,368000.0
+2017 Maruti Celerio VXI,Noida,Hatchback,2017,56638,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,349000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2020,36095,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,618000.0
+2016 Maruti Alto K10 VXI AMT,Faridabad,Hatchback,2016,77786,Petrol,Automatic,3,24.0,998.0,66.0,5.0,600000.0,267000.0
+2015 Maruti Ciaz VXI,Delhi,Sedan,2015,56050,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,490000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Gurugram,Hatchback,2018,56257,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,390000.0
+2017 Maruti Swift LXI (O),Noida,Hatchback,2017,88225,CNG,Manual,1,22.0,1197.0,88.0,5.0,850000.0,410000.0
+2023 Maruti New Wagon-R LXI 1.0,Ghaziabad,Other,2023,2440,Petrol,Manual,1,,,,,,540000.0
+2018 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Faridabad,Sedan,2018,51690,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,671000.0
+2020 Maruti New Wagon-R LXI CNG (O) 1.0,Delhi,Other,2020,67693,CNG,Manual,1,,,,,,503000.0
+2017 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2017,43451,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,336000.0
+2015 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2015,46592,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,298000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2021,39686,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,683000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2017,83664,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,490000.0
+2022 Maruti New Wagon-R VXI CNG 1.0,Delhi,Other,2022,38261,CNG,Manual,1,,,,,,625000.0
+2017 Maruti Wagon R 1.0 VXI+ AMT,Gurugram,Hatchback,2017,40144,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,398000.0
+2017 Maruti Celerio VXI CNG,Noida,Hatchback,2017,116413,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,378000.0
+2019 Maruti New Wagon-R LXI CNG (O) 1.0,Ghaziabad,Other,2019,48593,CNG,Manual,1,,,,,,482000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,57918,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,269000.0
+2020 Maruti S PRESSO VXI CNG,Delhi,Other,2020,64311,CNG,Manual,1,,,,,,421000.0
+2012 Maruti Swift ZXI,Gurugram,Hatchback,2012,55346,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,311000.0
+2014 Maruti Ciaz VXI,Noida,Sedan,2014,58200,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,412000.0
+2020 Maruti Dzire VXI,Ghaziabad,Sedan,2020,30892,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,613000.0
+2017 Maruti Alto K10 VXI (O) AMT,Faridabad,Hatchback,2017,49080,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,325000.0
+2020 Maruti S PRESSO LXI,Delhi,Other,2020,39522,Petrol,Manual,1,,,,,,381000.0
+2017 Maruti Swift LXI (O),Gurugram,Hatchback,2017,61039,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,416000.0
+2016 Maruti Alto 800 LXI,Noida,Hatchback,2016,17816,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,264000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2021,7386,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,645000.0
+2020 Maruti IGNIS ZETA 1.2,Faridabad,Hatchback,2020,65122,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,497000.0
+2020 Maruti Swift ZXI AMT,Delhi,Hatchback,2020,40126,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,634000.0
+2020 Maruti S PRESSO VXI CNG,Gurugram,Other,2020,75502,CNG,Manual,1,,,,,,426000.0
+2023 Maruti Swift VXI,Noida,Hatchback,2023,14887,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,638000.0
+2023 Maruti Swift LXI,Ghaziabad,Hatchback,2023,11194,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,559000.0
+2019 Maruti Swift VXI,Faridabad,Hatchback,2019,42091,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,468000.0
+2017 Maruti Wagon R 1.0 LXI CNG,Delhi,Hatchback,2017,81370,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,356000.0
+2021 Maruti Swift LXI,Gurugram,Hatchback,2021,24003,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,502000.0
+2014 Maruti Celerio VXI AMT,Noida,Hatchback,2014,58808,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,284000.0
+2021 Maruti Vitara Brezza VXI AT SHVS,Ghaziabad,SUV,2021,29125,Petrol,Automatic,2,18.7,1462.0,103.0,5.0,1150000.0,837000.0
+2022 Maruti Celerio VXI CNG,Faridabad,Hatchback,2022,23928,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,563000.0
+2019 Maruti Swift ZXI PLUS AMT,Delhi,Hatchback,2019,40276,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,593000.0
+2018 Maruti Swift LXI,Gurugram,Hatchback,2018,53062,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,437000.0
+2015 Maruti Alto 800 VXI,Noida,Hatchback,2015,67219,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,211000.0
+2016 Maruti Alto K10 LXI,Ghaziabad,Hatchback,2016,37983,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,278000.0
+2016 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2016,121389,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,292000.0
+2019 Maruti Eeco 5 STR WITH A/C+HTR,Delhi,MPV,2019,43731,Petrol,Manual,1,19.7,1196.0,79.0,5.0,650000.0,420000.0
+2016 Maruti Alto 800 LXI,Gurugram,Hatchback,2016,89853,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,230000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2020,27940,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,553000.0
+2014 Maruti Ritz VXI,Ghaziabad,Hatchback,2014,57273,Petrol,Manual,1,18.0,1197.0,74.0,5.0,700000.0,269000.0
+2020 Maruti Baleno ALPHA PETROL 1.2,Faridabad,Hatchback,2020,66093,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,588000.0
+2019 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2019,22779,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,648000.0
+2017 Maruti Baleno DELTA CVT PETROL 1.2,Gurugram,Hatchback,2017,50509,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,495000.0
+2018 Maruti Wagon R 1.0 LXI CNG,Noida,Hatchback,2018,72457,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,397000.0
+2018 Maruti IGNIS DELTA 1.2 AMT,Ghaziabad,Hatchback,2018,100481,CNG,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,449000.0
+2019 Maruti New Wagon-R ZXI 1.2,Faridabad,Other,2019,34898,Petrol,Manual,1,,,,,,476000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,65806,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,503000.0
+2023 Maruti New Wagon-R LXI CNG 1.0,Gurugram,Other,2023,14131,CNG,Manual,1,,,,,,619000.0
+2020 Maruti S PRESSO VXI+,Noida,Other,2020,29987,Petrol,Manual,1,,,,,,409000.0
+2022 Maruti IGNIS DELTA 1.2,Ghaziabad,Hatchback,2022,17745,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,536000.0
+2017 Maruti Swift VXI,Faridabad,Hatchback,2017,87820,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,422000.0
+2018 Maruti Swift VXI,Delhi,Hatchback,2018,36970,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,516000.0
+2011 Maruti Alto K10 VXI,Gurugram,Hatchback,2011,83452,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,139000.0
+2017 Maruti Ciaz ZETA 1.4 MT PETROL,Noida,Sedan,2017,33161,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,626000.0
+2018 Maruti Swift ZXI AMT,Ghaziabad,Hatchback,2018,60275,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,587000.0
+2018 Maruti Dzire VXI,Faridabad,Sedan,2018,30781,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,556000.0
+2016 Maruti Vitara Brezza ZDI,Delhi,SUV,2016,81814,Diesel,Manual,2,18.7,1462.0,103.0,5.0,1150000.0,689000.0
+2021 Maruti Swift VXI,Gurugram,Hatchback,2021,31851,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,667000.0
+2020 Maruti Baleno ZETA CVT PETROL 1.2,Noida,Hatchback,2020,34551,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,713000.0
+2021 Maruti New Wagon-R VXI 1.2,Ghaziabad,Other,2021,16495,Petrol,Manual,1,,,,,,542000.0
+2019 Maruti New Wagon-R ZXI 1.2 AMT,Faridabad,Other,2019,32226,Petrol,Automatic,1,,,,,,556000.0
+2019 Maruti Alto VXI,Delhi,Hatchback,2019,16511,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,373000.0
+2022 Maruti Ciaz ZETA 1.5 SHVS MT PETROL,Gurugram,Sedan,2022,46533,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,916000.0
+2017 Maruti Alto 800 LXI,Noida,Hatchback,2017,23280,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,313000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2018,53792,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,682000.0
+2023 Maruti S PRESSO VXI+,Faridabad,Other,2023,19602,Petrol,Manual,1,,,,,,517000.0
+2018 Maruti Celerio ZXI,Delhi,Hatchback,2018,97537,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,446000.0
+2022 Maruti S PRESSO VXI (O),Gurugram,Other,2022,37808,Petrol,Manual,1,,,,,,475000.0
+2021 Maruti S PRESSO VXI+,Noida,Other,2021,21839,Petrol,Manual,2,,,,,,452000.0
+2017 Maruti Celerio X ZXI (O) AMT,Ghaziabad,Hatchback,2017,65272,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,437000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Faridabad,Sedan,2017,33499,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,680000.0
+2018 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Delhi,Sedan,2018,73050,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,736000.0
+2016 Maruti Swift VXI,Gurugram,Hatchback,2016,70948,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,438000.0
+2017 Maruti Baleno DELTA CVT PETROL 1.2,Noida,Hatchback,2017,49352,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,590000.0
+2022 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2022,19025,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,743000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Faridabad,SUV,2023,8264,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1220000.0
+2020 Maruti Dzire ZXI Plus,Delhi,Sedan,2020,62438,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,739000.0
+2013 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2013,66819,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,319000.0
+2023 Maruti BREZZA ZXI SMART HYBRID,Noida,SUV,2023,8727,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1182000.0
+2022 Maruti Celerio ZXI PLUS,Ghaziabad,Hatchback,2022,16952,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,581000.0
+2020 Maruti Vitara Brezza ZXI,Faridabad,SUV,2020,49739,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,784000.0
+2018 Maruti Celerio VXI AMT,Delhi,Hatchback,2018,119383,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,392000.0
+2016 Maruti Swift VDI ABS,Gurugram,Hatchback,2016,95343,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,539000.0
+2017 Maruti IGNIS ZETA 1.2,Noida,Hatchback,2017,79548,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,468000.0
+2014 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2014,50925,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,254000.0
+2018 Maruti Eeco 5 STR WITH A/C+HTR,Faridabad,MPV,2018,89906,Petrol,Manual,1,19.7,1196.0,79.0,5.0,650000.0,398000.0
+2017 Maruti Baleno DELTA CVT PETROL 1.2,Delhi,Hatchback,2017,68932,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,568000.0
+2018 Maruti Ciaz ALPHA AT 1.4 PETROL,Gurugram,Sedan,2018,77543,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,692000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2016,57417,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,527000.0
+2022 Maruti Swift ZXI PLUS DUAL TONE,Ghaziabad,Hatchback,2022,44513,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,807000.0
+2017 Maruti Alto 800 LXI,Faridabad,Hatchback,2017,56946,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,300000.0
+2019 Maruti Alto LXI,Delhi,Hatchback,2019,35479,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,332000.0
+2016 Maruti Swift Dzire ZDI AMT,Gurugram,Hatchback,2016,88396,Diesel,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,578000.0
+2019 Maruti New Wagon-R ZXI 1.2,Noida,Other,2019,29420,Petrol,Manual,2,,,,,,501000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2018,59613,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,660000.0
+2017 Maruti Dzire VXI,Faridabad,Sedan,2017,86069,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,584000.0
+2021 Maruti S PRESSO VXI PLUS AMT,Delhi,Other,2021,18880,Petrol,Automatic,2,,,,,,476000.0
+2021 Maruti New Wagon-R VXI (O) 1.0,Gurugram,Other,2021,6549,Petrol,Manual,1,,,,,,531000.0
+2022 Maruti Alto VXI,Noida,Hatchback,2022,19497,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,415000.0
+2020 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2020,72538,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,744000.0
+2023 Maruti New Wagon-R ZXI PLUS 1.2 AMT,Faridabad,Other,2023,20335,Petrol,Automatic,1,,,,,,673000.0
+2016 Maruti Wagon R 1.0 VXI (O) AMT,Delhi,Hatchback,2016,74308,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,396000.0
+2022 Maruti Alto VXI PLUS,Gurugram,Hatchback,2022,7184,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,450000.0
+2017 Maruti Baleno RS 1.0 PETROL,Noida,Hatchback,2017,90881,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,573000.0
+2018 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2018,85129,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,447000.0
+2020 Maruti S PRESSO VXI PLUS AMT,Faridabad,Other,2020,40092,Petrol,Automatic,2,,,,,,465000.0
+2018 Maruti IGNIS DELTA 1.2,Delhi,Hatchback,2018,81794,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,460000.0
+2020 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2020,70579,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,713000.0
+2019 Maruti Celerio VXI AMT,Noida,Hatchback,2019,70604,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,449000.0
+2018 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2018,35716,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,320000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Faridabad,Hatchback,2017,29975,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,637000.0
+2017 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2017,55485,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,436000.0
+2018 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Gurugram,Sedan,2018,78170,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,707000.0
+2019 Maruti Alto LXI,Noida,Hatchback,2019,53567,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,321000.0
+2023 Maruti S PRESSO VXI+,Ghaziabad,Other,2023,14243,Petrol,Manual,1,,,,,,532000.0
+2020 Maruti S PRESSO VXI+,Faridabad,Other,2020,23216,Petrol,Manual,1,,,,,,445000.0
+2017 Maruti Alto K10 VXI,Delhi,Hatchback,2017,70222,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,340000.0
+2019 Maruti New Wagon-R VXI (O) 1.2 AMT,Gurugram,Other,2019,98073,Petrol,Automatic,1,,,,,,502000.0
+2017 Maruti Baleno ZETA CVT PETROL 1.2,Noida,Hatchback,2017,78967,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,631000.0
+2021 Maruti S PRESSO VXI+,Ghaziabad,Other,2021,10432,Petrol,Manual,1,,,,,,472000.0
+2022 Maruti New Wagon-R ZXI 1.2,Faridabad,Other,2022,17243,Petrol,Manual,1,,,,,,637000.0
+2022 Maruti Celerio ZXI PLUS,Delhi,Hatchback,2022,58811,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,608000.0
+2014 Maruti Swift Dzire VXI,Gurugram,Hatchback,2014,55989,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,419000.0
+2016 Maruti Swift VXI,Noida,Hatchback,2016,69898,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,504000.0
+2015 Maruti Celerio VXI,Ghaziabad,Hatchback,2015,59745,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,382000.0
+2020 Maruti New Wagon-R ZXI 1.2,Faridabad,Other,2020,35706,Petrol,Manual,1,,,,,,545000.0
+2018 Maruti Celerio ZXI AMT (O),Delhi,Hatchback,2018,72164,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,464000.0
+2018 Maruti Ciaz ALPHA 1.4 PETROL,Gurugram,Sedan,2018,66598,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,695000.0
+2020 Maruti S PRESSO VXI+,Noida,Other,2020,14896,Petrol,Manual,2,,,,,,440000.0
+2020 Maruti S PRESSO VXI+,Ghaziabad,Other,2020,27608,Petrol,Manual,1,,,,,,459000.0
+2015 Maruti Swift VXI,Faridabad,Hatchback,2015,59471,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,418000.0
+2013 Maruti Alto 800 VXI,Delhi,Hatchback,2013,79677,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,210000.0
+2016 Maruti Alto 800 LXI O,Gurugram,Hatchback,2016,70249,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,278000.0
+2019 Maruti Alto VXI,Noida,Hatchback,2019,17290,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,371000.0
+2022 Maruti Celerio ZXI,Ghaziabad,Hatchback,2022,20313,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,556000.0
+2019 Maruti S PRESSO VXI AMT,Faridabad,Other,2019,20840,Petrol,Automatic,1,,,,,,452000.0
+2023 Maruti New Wagon-R ZXI 1.2,Delhi,Other,2023,5098,Petrol,Manual,1,,,,,,661000.0
+2022 Maruti S PRESSO VXI+,Gurugram,Other,2022,15094,Petrol,Manual,1,,,,,,473000.0
+2019 Maruti Alto VXI,Noida,Hatchback,2019,21999,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,370000.0
+2020 Maruti New Wagon-R ZXI 1.2 AMT,Ghaziabad,Other,2020,52423,Petrol,Automatic,1,,,,,,598000.0
+2018 Maruti Dzire VXI,Faridabad,Sedan,2018,73333,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,558000.0
+2022 Maruti Swift VXI,Delhi,Hatchback,2022,15176,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,702000.0
+2022 Maruti Swift VXI,Gurugram,Hatchback,2022,31947,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,689000.0
+2021 Maruti S PRESSO VXI AMT,Noida,Other,2021,12067,Petrol,Automatic,1,,,,,,505000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2016,27297,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,526000.0
+2021 Maruti Swift VXI,Faridabad,Hatchback,2021,58463,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,589000.0
+2022 Maruti Swift VXI,Delhi,Hatchback,2022,45808,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,661000.0
+2023 Maruti Dzire VXI,Gurugram,Sedan,2023,2462,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,760000.0
+2019 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2019,76024,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,600000.0
+2018 Maruti Dzire ZXI PLUS AMT,Ghaziabad,Sedan,2018,24902,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,653000.0
+2013 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2013,29532,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,322000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Delhi,Hatchback,2017,113744,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,444000.0
+2018 Maruti Dzire ZXI PLUS,Gurugram,Sedan,2018,61641,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,668000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Noida,Sedan,2017,77367,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,626000.0
+2016 Maruti Swift VXI,Ghaziabad,Hatchback,2016,67466,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,512000.0
+2018 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2018,62367,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,574000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,86609,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,452000.0
+2021 Maruti Alto LXI O,Gurugram,Hatchback,2021,2632,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,386000.0
+2020 Maruti Alto LXI,Noida,Hatchback,2020,5093,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,360000.0
+2017 Maruti IGNIS SIGMA 1.2,Ghaziabad,Hatchback,2017,51920,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,384000.0
+2022 Maruti Celerio VXI CNG,Faridabad,Hatchback,2022,31366,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,641000.0
+2016 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2016,80251,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,547000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Gurugram,Sedan,2017,80422,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,634000.0
+2019 Maruti S PRESSO VXI PLUS AMT,Noida,Other,2019,54226,Petrol,Automatic,1,,,,,,453000.0
+2021 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2021,48061,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,592000.0
+2020 Maruti New Wagon-R ZXI 1.2 AMT,Faridabad,Other,2020,28300,Petrol,Automatic,1,,,,,,592000.0
+2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Delhi,Sedan,2020,38299,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,807000.0
+2018 Maruti Ciaz ALPHA AT 1.4 PETROL,Gurugram,Sedan,2018,40101,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,817000.0
+2020 Maruti Alto LXI,Noida,Hatchback,2020,24744,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,355000.0
+2019 Maruti Swift VXI,Ghaziabad,Hatchback,2019,77467,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,579000.0
+2019 Maruti Alto LXI,Faridabad,Hatchback,2019,43424,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,329000.0
+2018 Maruti Alto K10 VXI AMT,Delhi,Hatchback,2018,85701,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,346000.0
+2014 Maruti Celerio VXI,Gurugram,Hatchback,2014,70820,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,330000.0
+2019 Maruti Alto LXI,Noida,Hatchback,2019,41155,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,319000.0
+2014 Maruti Swift VXI,Ghaziabad,Hatchback,2014,32533,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,473000.0
+2019 Maruti New Wagon-R VXI (O) 1.0,Faridabad,Other,2019,49904,Petrol,Manual,1,,,,,,470000.0
+2017 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2017,22526,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,436000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Gurugram,Hatchback,2018,24368,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,694000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Noida,Hatchback,2017,51952,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,506000.0
+2015 Maruti Celerio ZXI,Ghaziabad,Hatchback,2015,69645,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,453000.0
+2017 Maruti Ertiga VXI,Faridabad,MPV,2017,32897,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,746000.0
+2016 Maruti Swift Dzire ZXI,Delhi,Hatchback,2016,57333,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,638000.0
+2022 Maruti XL6 ZETA MT,Gurugram,MPV,2022,59304,Petrol,Manual,1,20.3,1462.0,103.0,6.0,1200000.0,1069000.0
+2014 Maruti Swift VXI,Noida,Hatchback,2014,73239,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,486000.0
+2017 Maruti Ciaz ALPHA 1.4 PETROL,Ghaziabad,Sedan,2017,43129,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,663000.0
+2017 Maruti Baleno ALPHA CVT PETROL 1.2,Faridabad,Hatchback,2017,80229,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,644000.0
+2018 Maruti IGNIS ZETA 1.2,Delhi,Hatchback,2018,92528,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,470000.0
+2023 Maruti IGNIS ZETA 1.2,Gurugram,Hatchback,2023,19575,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,696000.0
+2012 Maruti Alto 800 LXI,Noida,Hatchback,2012,33134,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,253000.0
+2015 Maruti Swift VXI,Ghaziabad,Hatchback,2015,34673,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,546000.0
+2020 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Faridabad,Sedan,2020,31444,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,821000.0
+2013 Maruti Swift VDI,Delhi,Hatchback,2013,96413,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,444000.0
+2012 Maruti Swift VXI,Gurugram,Hatchback,2012,64557,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,463000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Noida,Hatchback,2017,22456,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,612000.0
+2023 Maruti Grand Vitara SIGMA SMART HYBRID,Ghaziabad,SUV,2023,20888,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1250000.0,1108000.0
+2014 Maruti Swift VXI,Faridabad,Hatchback,2014,70716,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,487000.0
+2011 Maruti Swift VXI,Delhi,Hatchback,2011,64003,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,361000.0
+2017 Maruti Vitara Brezza VDI (O),Gurugram,SUV,2017,109407,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,697000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2019,54029,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,694000.0
+2017 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2017,51689,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,418000.0
+2017 Maruti Celerio ZXI,Faridabad,Hatchback,2017,38004,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,452000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,46751,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,662000.0
+2022 Maruti Grand Vitara ALPHA SMART HYBRID ALLGRIP,Gurugram,SUV,2022,14358,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1250000.0,1599000.0
+2021 Maruti IGNIS SIGMA 1.2,Noida,Hatchback,2021,39945,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,512000.0
+2018 Maruti Swift VXI AMT,Ghaziabad,Hatchback,2018,57341,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,597000.0
+2020 Maruti Ertiga ZXI AT SHVS,Faridabad,MPV,2020,43181,Petrol,Automatic,1,20.5,1462.0,103.0,7.0,1150000.0,963000.0
+2019 Maruti Swift ZXI,Delhi,Hatchback,2019,32730,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,619000.0
+2022 Maruti Ertiga ZXI AT SHVS,Gurugram,MPV,2022,29126,Petrol,Automatic,1,20.5,1462.0,103.0,7.0,1150000.0,1192000.0
+2021 Maruti Ertiga VXI AT SHVS,Noida,MPV,2021,33525,Petrol,Automatic,1,20.5,1462.0,103.0,7.0,1150000.0,1007000.0
+2015 Maruti Ciaz ZXI AT,Ghaziabad,Sedan,2015,83683,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,480000.0
+2014 Maruti Ciaz ZXI,Faridabad,Sedan,2014,70337,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,547000.0
+2014 Maruti OMNI E STD,Delhi,MPV,2014,64243,Petrol,Manual,1,16.0,796.0,32.0,8.0,500000.0,279000.0
+2017 Maruti Swift ZXI,Gurugram,Hatchback,2017,57560,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,567000.0
+2016 Maruti Swift Dzire ZXI,Noida,Hatchback,2016,86301,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,518000.0
+2023 Maruti New Wagon-R ZXI 1.2,Ghaziabad,Other,2023,2896,Petrol,Manual,1,,,,,,657000.0
+2013 Maruti Swift Dzire VXI,Faridabad,Hatchback,2013,59700,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,411000.0
+2020 Maruti New Wagon-R VXI (O) 1.2,Delhi,Other,2020,66530,Petrol,Manual,1,,,,,,508000.0
+2016 Maruti Ertiga VDI SHVS,Gurugram,MPV,2016,94438,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,754000.0
+2016 Maruti Vitara Brezza ZDI,Noida,SUV,2016,91544,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,709000.0
+2013 Maruti Wagon R Stingray VXI,Ghaziabad,Hatchback,2013,97830,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,295000.0
+2017 Maruti IGNIS ZETA 1.2,Faridabad,Hatchback,2017,47285,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,473000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,53462,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,560000.0
+2021 Maruti IGNIS ALPHA 1.2 AMT,Gurugram,Hatchback,2021,29003,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,758000.0
+2019 Maruti Alto 800 LXI,Noida,Hatchback,2019,39868,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,336000.0
+2022 Maruti New Wagon-R ZXI 1.2,Ghaziabad,Other,2022,8524,Petrol,Manual,1,,,,,,624000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Faridabad,Hatchback,2017,95525,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,465000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,81548,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,619000.0
+2017 Maruti Dzire ZXI PLUS AMT,Gurugram,Sedan,2017,105779,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,587000.0
+2011 Maruti Ritz VDI,Noida,Hatchback,2011,72644,Diesel,Manual,1,18.0,1197.0,74.0,5.0,700000.0,362000.0
+2015 Maruti Celerio VXI,Ghaziabad,Hatchback,2015,39773,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,394000.0
+2013 Maruti Swift VDI,Faridabad,Hatchback,2013,93871,Diesel,Manual,3,22.0,1197.0,88.0,5.0,850000.0,379000.0
+2019 Maruti Celerio X ZXI (O) AMT,Delhi,Hatchback,2019,27215,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,502000.0
+2018 Maruti Baleno ALPHA DIESEL 1.3,Gurugram,Hatchback,2018,82882,Diesel,Manual,1,22.3,1197.0,89.0,5.0,900000.0,722000.0
+2023 Maruti Alto K10 VXI PLUS,Noida,Hatchback,2023,8882,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,515000.0
+2021 Maruti IGNIS DELTA 1.2 AMT,Ghaziabad,Hatchback,2021,31951,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,610000.0
+2020 Maruti New Wagon-R VXI (O) 1.2,Faridabad,Other,2020,15178,Petrol,Manual,1,,,,,,564000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,69995,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,525000.0
+2016 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2016,29641,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,620000.0
+2021 Maruti S PRESSO VXI AMT,Noida,Other,2021,9677,Petrol,Automatic,2,,,,,,442000.0
+2015 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2015,49078,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,336000.0
+2014 Maruti Swift ZXI,Faridabad,Hatchback,2014,41074,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,491000.0
+2021 Maruti XL6 ALPHA AT,Delhi,MPV,2021,38819,Petrol,Automatic,1,20.3,1462.0,103.0,6.0,1200000.0,1123000.0
+2019 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2019,59228,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,692000.0
+2019 Maruti Baleno ALPHA CVT PETROL 1.2,Noida,Hatchback,2019,65568,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,673000.0
+2020 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2020,52878,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,793000.0
+2011 Maruti Zen Estilo VXI,Faridabad,Hatchback,2011,69568,Petrol,Manual,2,18.0,993.0,60.0,5.0,550000.0,210000.0
+2015 Maruti Baleno DELTA DIESEL 1.3,Delhi,Hatchback,2015,63916,Diesel,Manual,2,22.3,1197.0,89.0,5.0,900000.0,581000.0
+2017 Maruti Dzire ZXI PLUS AMT,Gurugram,Sedan,2017,67275,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,629000.0
+2019 Maruti Celerio ZXI AMT (O),Noida,Hatchback,2019,23686,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,496000.0
+2014 Maruti Celerio VXI AMT,Ghaziabad,Hatchback,2014,14522,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,362000.0
+2018 Maruti Dzire VXI,Faridabad,Sedan,2018,19437,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,688000.0
+2018 Maruti Celerio VXI (O),Delhi,Hatchback,2018,69515,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,437000.0
+2017 Maruti Baleno DELTA CVT PETROL 1.2,Gurugram,Hatchback,2017,79589,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,618000.0
+2014 Maruti Swift Dzire VDI,Noida,Hatchback,2014,89284,Diesel,Manual,1,22.0,1197.0,88.0,5.0,850000.0,530000.0
+2016 Maruti S Cross ZETA 1.3,Ghaziabad,Other,2016,78922,Diesel,Manual,2,,,,,,716000.0
+2014 Maruti Ritz VXI,Faridabad,Hatchback,2014,73631,Petrol,Manual,2,18.0,1197.0,74.0,5.0,700000.0,367000.0
+2017 Maruti IGNIS DELTA 1.2,Delhi,Hatchback,2017,56427,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,465000.0
+2016 Maruti Ciaz ZXI+,Gurugram,Sedan,2016,75940,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,596000.0
+2012 Maruti Swift Dzire VXI,Noida,Hatchback,2012,104807,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,376000.0
+2021 Maruti Celerio ZXI PLUS AGS,Ghaziabad,Hatchback,2021,45807,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,650000.0
+2019 Maruti Dzire VXI,Faridabad,Sedan,2019,58029,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,683000.0
+2020 Maruti Swift ZXI PLUS AMT,Delhi,Hatchback,2020,38807,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,721000.0
+2014 Maruti Swift ZXI,Gurugram,Hatchback,2014,56168,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,495000.0
+2016 Maruti Ciaz ZXI AT,Noida,Sedan,2016,66695,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,629000.0
+2019 Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,Ghaziabad,Sedan,2019,12567,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,755000.0
+2017 Maruti Swift VXI,Faridabad,Hatchback,2017,77191,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,515000.0
+2017 Maruti Dzire VDI AMT,Delhi,Sedan,2017,77413,Diesel,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,673000.0
+2011 Maruti Swift Dzire VXI,Gurugram,Hatchback,2011,61266,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,348000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2017,22396,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,613000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Ghaziabad,Hatchback,2016,69324,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,381000.0
+2022 Maruti Celerio ZXI PLUS,Faridabad,Hatchback,2022,28788,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,563000.0
+2012 Maruti Swift VXI,Delhi,Hatchback,2012,97699,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,388000.0
+2010 Maruti A Star LXI,Gurugram,Other,2010,103867,Petrol,Manual,2,,,,,,208000.0
+2019 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2019,36932,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,716000.0
+2016 Maruti Ciaz ZXI AT,Ghaziabad,Sedan,2016,96520,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,565000.0
+2021 Maruti Celerio ZXI PLUS,Faridabad,Hatchback,2021,22245,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,566000.0
+2014 Maruti Alto K10 VXI,Delhi,Hatchback,2014,49599,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,299000.0
+2011 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2011,53178,Petrol,Manual,3,22.0,1197.0,88.0,5.0,750000.0,245000.0
+2022 Maruti New Wagon-R ZXI 1.2 AMT,Noida,Other,2022,27743,Petrol,Automatic,1,,,,,,643000.0
+2018 Maruti Celerio ZXI AMT (O),Ghaziabad,Hatchback,2018,43407,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,479000.0
+2012 Maruti A Star VXI,Faridabad,Other,2012,71079,Petrol,Manual,1,,,,,,261000.0
+2020 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Delhi,Sedan,2020,60741,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,779000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Gurugram,Sedan,2020,12867,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,956000.0
+2019 Maruti Dzire ZXI AMT,Noida,Sedan,2019,28533,Petrol,Automatic,2,23.0,1197.0,89.0,5.0,900000.0,694000.0
+2014 Maruti Swift VXI,Ghaziabad,Hatchback,2014,71516,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,450000.0
+2013 Maruti Swift VXI,Faridabad,Hatchback,2013,27532,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,441000.0
+2016 Maruti Ciaz ZXI,Delhi,Sedan,2016,68199,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,620000.0
+2015 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2015,110669,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,320000.0
+2019 Maruti New Wagon-R VXI 1.0 AMT,Noida,Other,2019,30598,Petrol,Automatic,1,,,,,,527000.0
+2015 Maruti Ertiga ZXI,Ghaziabad,MPV,2015,46440,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,700000.0
+2018 Maruti Swift ZXI PLUS,Faridabad,Hatchback,2018,64747,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,718000.0
+2018 Maruti IGNIS ALPHA 1.2 AMT,Delhi,Hatchback,2018,43456,Petrol,Automatic,2,20.9,1197.0,82.0,5.0,800000.0,563000.0
+2011 Maruti Swift VXI,Gurugram,Hatchback,2011,104553,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,352000.0
+2018 Maruti Baleno ALPHA CVT PETROL 1.2,Noida,Hatchback,2018,26277,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,702000.0
+2014 Maruti Alto K10 LXI,Ghaziabad,Hatchback,2014,63792,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,267000.0
+2017 Maruti Wagon R 1.0 VXI AMT,Faridabad,Hatchback,2017,36404,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,424000.0
+2015 Maruti Ciaz ZXI,Delhi,Sedan,2015,97889,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,538000.0
+2016 Maruti Celerio VXI,Gurugram,Hatchback,2016,29309,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,440000.0
+2012 Maruti Swift Dzire VDI,Noida,Hatchback,2012,110904,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,411000.0
+2015 Maruti Swift VXI,Ghaziabad,Hatchback,2015,74945,Petrol,Manual,3,22.0,1197.0,88.0,5.0,850000.0,471000.0
+2013 Maruti Swift VDI,Faridabad,Hatchback,2013,97837,Diesel,Manual,3,22.0,1197.0,88.0,5.0,850000.0,415000.0
+2023 Maruti New Wagon-R VXI 1.0 AMT,Delhi,Other,2023,8230,Petrol,Automatic,1,,,,,,745000.0
+2019 Maruti New Wagon-R VXI 1.0 AMT,Gurugram,Other,2019,67526,Petrol,Automatic,1,,,,,,502000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Noida,Hatchback,2016,48043,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,390000.0
+2015 Maruti Swift VXI,Ghaziabad,Hatchback,2015,40348,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,492000.0
+2022 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Faridabad,Sedan,2022,14772,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,997000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2020,70110,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,840000.0
+2014 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2014,35720,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,363000.0
+2019 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Noida,Sedan,2019,29041,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,898000.0
+2018 Maruti Dzire VXI,Ghaziabad,Sedan,2018,38445,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,686000.0
+2011 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2011,79659,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,267000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2017,23573,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,699000.0
+2016 Maruti Celerio VXI,Gurugram,Hatchback,2016,77319,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,406000.0
+2021 Maruti Celerio ZXI PLUS,Noida,Hatchback,2021,8254,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,651000.0
+2023 Maruti Alto K10 VXI PLUS AMT,Ghaziabad,Hatchback,2023,6675,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,580000.0
+2014 Maruti Celerio VXI AMT,Faridabad,Hatchback,2014,10558,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,398000.0
+2023 Maruti Ertiga ZXI+ AT SHVS,Delhi,MPV,2023,11016,Petrol,Automatic,1,20.5,1462.0,103.0,7.0,1150000.0,1364000.0
+2015 Maruti Wagon R 1.0 VXI,Gurugram,Hatchback,2015,77640,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,352000.0
+2013 Maruti Alto K10 VXI,Noida,Hatchback,2013,24202,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,284000.0
+2016 Maruti Wagon R 1.0 VXI AMT,Ghaziabad,Hatchback,2016,38333,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,408000.0
+2023 Maruti Alto K10 VXI AMT,Faridabad,Hatchback,2023,3136,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,567000.0
+2020 Maruti S PRESSO VXI+,Delhi,Other,2020,21196,Petrol,Manual,1,,,,,,443000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2021,26477,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,823000.0
+2019 Maruti Swift ZXI AMT,Noida,Hatchback,2019,21955,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,697000.0
+2022 Maruti Dzire VXI AMT,Ghaziabad,Sedan,2022,16023,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,755000.0
+2013 Maruti Alto 800 VXI,Faridabad,Hatchback,2013,46661,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,275000.0
+2022 Maruti Dzire ZXI Plus AMT,Delhi,Sedan,2022,24567,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,849000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Gurugram,Hatchback,2017,68890,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,543000.0
+2012 Maruti Swift Dzire ZXI,Noida,Hatchback,2012,36201,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,512000.0
+2011 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2011,34408,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,275000.0
+2018 Maruti Celerio ZXI AMT (O),Faridabad,Hatchback,2018,80488,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,445000.0
+2017 Maruti Celerio ZXI AMT,Delhi,Hatchback,2017,113666,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,420000.0
+2023 Maruti S PRESSO VXI PLUS (O) AMT,Gurugram,Other,2023,7370,Petrol,Automatic,1,,,,,,593000.0
+2016 Maruti Swift VXI,Noida,Hatchback,2016,70649,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,555000.0
+2018 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Ghaziabad,Sedan,2018,42483,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,750000.0
+2016 Maruti Alto K10 VXI (O),Faridabad,Hatchback,2016,19613,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,352000.0
+2015 Maruti Ertiga ZDI,Delhi,MPV,2015,57858,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,775000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2017,48247,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,646000.0
+2023 Maruti S PRESSO VXI (O) AMT,Noida,Other,2023,11631,Petrol,Automatic,1,,,,,,571000.0
+2019 Maruti Celerio VXI AMT (O),Ghaziabad,Hatchback,2019,66087,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,503000.0
+2016 Maruti Celerio ZXI AMT,Faridabad,Hatchback,2016,51729,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,476000.0
+2020 Maruti S PRESSO VXI AMT,Delhi,Other,2020,18350,Petrol,Automatic,2,,,,,,463000.0
+2015 Maruti Wagon R 1.0 VXI AMT,Gurugram,Hatchback,2015,38523,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,397000.0
+2015 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2015,27184,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,375000.0
+2019 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Ghaziabad,Sedan,2019,49968,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,904000.0
+2012 Maruti Swift VDI,Faridabad,Hatchback,2012,96264,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,401000.0
+2016 Maruti Swift VXI,Delhi,Hatchback,2016,92616,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,555000.0
+2017 Maruti Celerio VXI,Gurugram,Hatchback,2017,37599,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,456000.0
+2014 Maruti Celerio VXI AMT,Noida,Hatchback,2014,75385,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,367000.0
+2022 Maruti S PRESSO VXI+,Ghaziabad,Other,2022,6410,Petrol,Manual,1,,,,,,486000.0
+2021 Maruti S PRESSO VXI+,Faridabad,Other,2021,34267,Petrol,Manual,2,,,,,,456000.0
+2012 Maruti Alto K10 VXI,Delhi,Hatchback,2012,71979,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,254000.0
+2014 Maruti Ciaz VDI,Gurugram,Sedan,2014,86623,Diesel,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,560000.0
+2013 Maruti Swift Dzire VXI,Noida,Hatchback,2013,106215,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,421000.0
+2016 Maruti Ciaz ZXI+,Ghaziabad,Sedan,2016,34800,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,674000.0
+2018 Maruti Ertiga ZDI + SHVS,Faridabad,MPV,2018,69668,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,1005000.0
+2018 Maruti Ciaz ALPHA 1.4 PETROL,Delhi,Sedan,2018,49559,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,710000.0
+2018 Maruti Baleno DELTA CVT PETROL 1.2,Gurugram,Hatchback,2018,36967,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,660000.0
+2014 Maruti Celerio VXI AMT,Noida,Hatchback,2014,71320,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,372000.0
+2021 Maruti Alto VXI PLUS,Ghaziabad,Hatchback,2021,28158,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,420000.0
+2013 Maruti Wagon R 1.0 VXI,Faridabad,Hatchback,2013,40896,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,358000.0
+2021 Maruti Celerio ZXI AMT,Delhi,Hatchback,2021,20754,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,660000.0
+2016 Maruti Celerio VXI AMT (O),Gurugram,Hatchback,2016,62383,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,439000.0
+2022 Maruti Alto K10 VXI PLUS,Noida,Hatchback,2022,13847,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,511000.0
+2017 Maruti Alto K10 VXI,Ghaziabad,Hatchback,2017,13628,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,392000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Faridabad,Hatchback,2017,57040,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,662000.0
+2019 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Delhi,Sedan,2019,41774,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,917000.0
+2017 Maruti Wagon R 1.0 VXI AMT,Gurugram,Hatchback,2017,84182,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,750000.0,443000.0
+2016 Maruti Celerio VXI AMT (O),Noida,Hatchback,2016,62447,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,442000.0
+2016 Maruti Baleno ZETA CVT PETROL 1.2,Ghaziabad,Hatchback,2016,91417,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,610000.0
+2019 Maruti S PRESSO VXI (O),Faridabad,Other,2019,44848,Petrol,Manual,1,,,,,,411000.0
+2018 Maruti Ciaz ZETA 1.4 AT PETROL,Delhi,Sedan,2018,50334,Petrol,Automatic,2,20.0,1462.0,103.0,5.0,1100000.0,765000.0
+2019 Maruti New Wagon-R VXI 1.2 AMT,Gurugram,Other,2019,16416,Petrol,Automatic,2,,,,,,615000.0
+2018 Maruti Celerio ZXI AMT,Noida,Hatchback,2018,35370,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,534000.0
+2015 Maruti Celerio ZXI,Ghaziabad,Hatchback,2015,31672,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,414000.0
+2021 Maruti Alto VXI PLUS,Faridabad,Hatchback,2021,29878,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,397000.0
+2021 Maruti Baleno DELTA CVT PETROL 1.2,Delhi,Hatchback,2021,19123,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,815000.0
+2023 Maruti IGNIS ZETA 1.2 AMT,Gurugram,Hatchback,2023,4714,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,754000.0
+2018 Maruti Swift VXI,Noida,Hatchback,2018,37330,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,577000.0
+2023 Maruti Swift VXI,Ghaziabad,Hatchback,2023,9075,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,733000.0
+2022 Maruti Baleno ZETA PETROL 1.2,Faridabad,Hatchback,2022,34474,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,772000.0
+2011 Maruti Swift Dzire VDI,Delhi,Hatchback,2011,110407,Diesel,Manual,2,22.0,1197.0,88.0,5.0,850000.0,349000.0
+2022 Maruti Swift ZXI PLUS AMT DUAL TONE,Gurugram,Hatchback,2022,31459,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,842000.0
+2018 Maruti Swift ZXI AMT,Noida,Hatchback,2018,44996,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,631000.0
+2017 Maruti Ciaz DELTA 1.4 MT PETROL,Ghaziabad,Sedan,2017,94757,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,504000.0
+2021 Maruti Baleno DELTA CVT PETROL 1.2,Faridabad,Hatchback,2021,32596,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,667000.0
+2020 Maruti Vitara Brezza ZXI PLUS AT SHVS,Delhi,SUV,2020,50421,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,981000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2016,72633,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,562000.0
+2011 Maruti Swift VXI,Noida,Hatchback,2011,86282,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,322000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2019,24160,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,670000.0
+2018 Maruti Celerio ZXI AMT (O),Faridabad,Hatchback,2018,95626,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,428000.0
+2015 Maruti Celerio VXI AMT,Delhi,Hatchback,2015,29628,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,410000.0
+2012 Maruti Ertiga ZDI,Gurugram,MPV,2012,106213,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,564000.0
+2017 Maruti Swift VXI,Noida,Hatchback,2017,37343,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,563000.0
+2016 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2016,43855,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,445000.0
+2015 Maruti Celerio VXI AMT,Faridabad,Hatchback,2015,52643,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,404000.0
+2020 Maruti Alto LXI O,Delhi,Hatchback,2020,2598,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,405000.0
+2011 Maruti Alto K10 VXI,Gurugram,Hatchback,2011,109991,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,216000.0
+2013 Maruti Ertiga VXI,Noida,MPV,2013,51980,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,617000.0
+2018 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2018,45037,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,532000.0
+2022 Maruti Ertiga VXI SHVS,Faridabad,MPV,2022,9884,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,1033000.0
+2013 Maruti Ertiga ZXI,Delhi,MPV,2013,92460,Petrol,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,593000.0
+2020 Maruti S PRESSO VXI PLUS AMT,Gurugram,Other,2020,18106,Petrol,Automatic,1,,,,,,486000.0
+2017 Maruti Alto K10 VXI,Noida,Hatchback,2017,72033,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,334000.0
+2019 Maruti Celerio ZXI AMT (O),Ghaziabad,Hatchback,2019,56397,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,469000.0
+2017 Maruti Baleno RS 1.0 PETROL,Faridabad,Hatchback,2017,36274,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,670000.0
+2018 Maruti Celerio VXI AMT (O),Delhi,Hatchback,2018,10280,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,517000.0
+2016 Maruti Ciaz ZXI+,Gurugram,Sedan,2016,68828,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,678000.0
+2014 Maruti Swift VXI,Noida,Hatchback,2014,75750,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,466000.0
+2014 Maruti Swift Dzire ZXI,Ghaziabad,Hatchback,2014,32287,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,522000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2019,20945,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,668000.0
+2017 Maruti Alto K10 VXI (O) AMT,Delhi,Hatchback,2017,32880,Petrol,Automatic,2,24.0,998.0,66.0,5.0,600000.0,373000.0
+2018 Maruti Eeco 5 STR WITH A/C+HTR,Gurugram,MPV,2018,66374,Petrol,Manual,1,19.7,1196.0,79.0,5.0,650000.0,445000.0
+2018 Maruti Swift VXI,Noida,Hatchback,2018,26638,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,553000.0
+2015 Maruti Ciaz VXI+,Ghaziabad,Sedan,2015,95738,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,495000.0
+2021 Maruti Swift VXI,Faridabad,Hatchback,2021,13228,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,662000.0
+2018 Maruti Celerio X VXI (O),Delhi,Hatchback,2018,39995,Petrol,Manual,3,25.0,998.0,66.0,5.0,700000.0,393000.0
+2012 Maruti Omni 5 STR,Gurugram,MPV,2012,37089,Petrol,Manual,1,16.0,796.0,32.0,8.0,500000.0,240000.0
+2015 Maruti Celerio VXI,Noida,Hatchback,2015,46241,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,363000.0
+2016 Maruti Baleno ZETA CVT PETROL 1.2,Ghaziabad,Hatchback,2016,83635,Petrol,Automatic,3,22.3,1197.0,89.0,5.0,900000.0,531000.0
+2016 Maruti Swift ZXI,Faridabad,Hatchback,2016,74061,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,507000.0
+2023 Maruti Baleno ALPHA 1.2 AGS,Delhi,Hatchback,2023,5154,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,991000.0
+2018 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Gurugram,Sedan,2018,91521,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,655000.0
+2016 Maruti Swift VXI,Noida,Hatchback,2016,44499,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,505000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2021,17079,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,701000.0
+2017 Maruti Ciaz ZXI+ AT,Faridabad,Sedan,2017,73371,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,639000.0
+2021 Maruti Vitara Brezza ZXI PLUS AT SHVS,Delhi,SUV,2021,22250,Petrol,Automatic,1,18.7,1462.0,103.0,5.0,1150000.0,1044000.0
+2014 Maruti Swift VXI,Gurugram,Hatchback,2014,89872,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,450000.0
+2021 Maruti S PRESSO LXI,Noida,Other,2021,35273,Petrol,Manual,1,,,,,,368000.0
+2019 Maruti Swift ZXI PLUS,Ghaziabad,Hatchback,2019,25462,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,714000.0
+2018 Maruti Swift ZXI AMT,Faridabad,Hatchback,2018,54397,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,665000.0
+2022 Maruti Dzire ZXI Plus AMT,Delhi,Sedan,2022,9369,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,849000.0
+2018 Maruti Baleno RS 1.0 PETROL,Gurugram,Hatchback,2018,61005,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,654000.0
+2018 Maruti Swift VXI AMT,Noida,Hatchback,2018,29219,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,607000.0
+2016 Maruti Ciaz ZDI SHVS,Ghaziabad,Sedan,2016,60384,Diesel,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,661000.0
+2014 Maruti Ertiga VXI,Faridabad,MPV,2014,92745,Petrol,Manual,2,20.5,1462.0,103.0,7.0,1150000.0,571000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,49591,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,664000.0
+2016 Maruti Baleno ALPHA PETROL 1.2,Gurugram,Hatchback,2016,27306,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,634000.0
+2014 Maruti Alto K10 VXI,Noida,Hatchback,2014,99832,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,250000.0
+2016 Maruti Celerio ZXI AMT,Ghaziabad,Hatchback,2016,28404,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,420000.0
+2018 Maruti Ciaz DELTA DIESEL 1.3,Faridabad,Sedan,2018,80245,Diesel,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,701000.0
+2016 Maruti Alto K10 VXI (O) AMT,Delhi,Hatchback,2016,30851,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,369000.0
+2017 Maruti Alto K10 VXI (O) AMT,Gurugram,Hatchback,2017,17897,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,400000.0
+2013 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2013,76286,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,335000.0
+2016 Maruti Wagon R 1.0 VXI,Ghaziabad,Hatchback,2016,30478,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,402000.0
+2018 Maruti Celerio ZXI,Faridabad,Hatchback,2018,39085,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,493000.0
+2016 Maruti Alto K10 VXI (O) AMT,Delhi,Hatchback,2016,15385,Petrol,Automatic,1,24.0,998.0,66.0,5.0,600000.0,388000.0
+2015 Maruti Swift Dzire ZXI,Gurugram,Hatchback,2015,30728,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,574000.0
+2016 Maruti Ertiga VDI SHVS,Noida,MPV,2016,39774,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,832000.0
+2019 Maruti New Wagon-R VXI (O) 1.2 AMT,Ghaziabad,Other,2019,16796,Petrol,Automatic,2,,,,,,500000.0
+2016 Maruti Celerio ZXI (O),Faridabad,Hatchback,2016,16385,Petrol,Manual,2,25.0,998.0,66.0,5.0,700000.0,460000.0
+2018 Maruti IGNIS SIGMA 1.2,Delhi,Hatchback,2018,73809,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,428000.0
+2016 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2016,47679,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,551000.0
+2019 Maruti New Wagon-R VXI 1.2 AMT,Noida,Other,2019,13515,Petrol,Automatic,2,,,,,,564000.0
+2014 Maruti Alto 800 LXI,Ghaziabad,Hatchback,2014,56977,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,211000.0
+2021 Maruti Vitara Brezza LXI,Faridabad,SUV,2021,29865,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,722000.0
+2018 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2018,89536,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,380000.0
+2023 Maruti Alto LXI OPT CNG,Gurugram,Hatchback,2023,18726,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,497000.0
+2020 Maruti Dzire VXI,Noida,Sedan,2020,81469,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,596000.0
+2020 Maruti Dzire VXI,Ghaziabad,Sedan,2020,70958,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,616000.0
+2021 Maruti Alto VXI,Faridabad,Hatchback,2021,18403,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,387000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2020,39992,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,616000.0
+2019 Maruti Ciaz DELTA 1.5 SHVS MT PETROL,Gurugram,Sedan,2019,43437,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,671000.0
+2023 Maruti Baleno ALPHA PETROL 1.2,Noida,Hatchback,2023,22213,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,896000.0
+2018 Maruti IGNIS DELTA 1.2,Ghaziabad,Hatchback,2018,34558,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,451000.0
+2022 Maruti Alto LXI O,Faridabad,Hatchback,2022,24676,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,390000.0
+2022 Maruti Celerio ZXI,Delhi,Hatchback,2022,16915,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,571000.0
+2022 Maruti Ciaz S 1.5 MT PETROL,Gurugram,Sedan,2022,27376,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,945000.0
+2017 Maruti Ciaz ZETA 1.4 MT PETROL,Noida,Sedan,2017,53155,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,642000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2017,76378,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,575000.0
+2022 Maruti IGNIS SIGMA 1.2,Faridabad,Hatchback,2022,14787,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,517000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2021,27957,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,730000.0
+2018 Maruti Ciaz DELTA DIESEL 1.3,Gurugram,Sedan,2018,96173,Diesel,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,556000.0
+2017 Maruti Dzire VDI,Noida,Sedan,2017,60592,Diesel,Manual,2,23.0,1197.0,89.0,5.0,900000.0,570000.0
+2019 Maruti Baleno ALPHA CVT PETROL 1.2,Ghaziabad,Hatchback,2019,14032,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,708000.0
+2014 Maruti Swift VXI,Faridabad,Hatchback,2014,124105,CNG,Manual,1,22.0,1197.0,88.0,5.0,850000.0,369000.0
+2020 Maruti Swift ZXI PLUS AMT,Delhi,Hatchback,2020,45992,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,678000.0
+2014 Maruti Celerio VXI AMT,Gurugram,Hatchback,2014,106679,Petrol,Automatic,1,25.0,998.0,66.0,5.0,700000.0,295000.0
+2021 Maruti Swift ZXI PLUS AMT DUAL TONE,Noida,Hatchback,2021,24487,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,850000.0,743000.0
+2020 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Ghaziabad,Sedan,2020,45058,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,873000.0
+2022 Maruti Alto LXI OPT CNG,Faridabad,Hatchback,2022,21422,CNG,Manual,1,24.0,998.0,66.0,5.0,600000.0,467000.0
+2017 Maruti Alto 800 LXI,Delhi,Hatchback,2017,110866,Petrol,Manual,3,24.0,998.0,66.0,5.0,600000.0,240000.0
+2016 Maruti Vitara Brezza VDI,Gurugram,SUV,2016,86345,Diesel,Manual,2,18.7,1462.0,103.0,5.0,1150000.0,632000.0
+2014 Maruti Wagon R 1.0 VXI,Noida,Hatchback,2014,99572,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,295000.0
+2022 Maruti BREZZA ZXI SMART HYBRID,Ghaziabad,SUV,2022,13425,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,1051000.0
+2023 Maruti Alto K10 VXI PLUS,Faridabad,Hatchback,2023,10106,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,489000.0
+2016 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2016,73723,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,318000.0
+2018 Maruti Dzire VXI,Gurugram,Sedan,2018,86832,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,516000.0
+2018 Maruti Alto K10 VXI,Noida,Hatchback,2018,46028,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,320000.0
+2020 Maruti Dzire VXI,Ghaziabad,Sedan,2020,61231,Petrol,Manual,2,23.0,1197.0,89.0,5.0,900000.0,579000.0
+2017 Maruti Ciaz SIGMA DIESEL 1.3,Faridabad,Sedan,2017,121126,Diesel,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,542000.0
+2019 Maruti Alto LXI,Delhi,Hatchback,2019,64745,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,313000.0
+2020 Maruti Alto VXI,Gurugram,Hatchback,2020,32946,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,364000.0
+2012 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2012,83474,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,240000.0
+2016 Maruti Ciaz VXI+,Ghaziabad,Sedan,2016,54635,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,561000.0
+2017 Maruti IGNIS SIGMA 1.2,Faridabad,Hatchback,2017,51758,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,385000.0
+2023 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2023,10731,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,894000.0
+2016 Maruti Vitara Brezza ZDI,Gurugram,SUV,2016,88267,Diesel,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,709000.0
+2022 Maruti Baleno ALPHA 1.2 AGS,Noida,Hatchback,2022,8368,Petrol,Automatic,2,22.3,1197.0,89.0,5.0,900000.0,861000.0
+2016 Maruti Ciaz ZXI+ RS,Ghaziabad,Sedan,2016,40789,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,665000.0
+2021 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Faridabad,Sedan,2021,11395,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,850000.0
+2022 Maruti Alto K10 LXI,Delhi,Hatchback,2022,10776,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,423000.0
+2017 Maruti Alto 800 LXI,Gurugram,Hatchback,2017,34461,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,300000.0
+2017 Maruti Celerio X ZXI,Noida,Hatchback,2017,104045,Petrol,Manual,1,25.0,998.0,66.0,5.0,700000.0,363000.0
+2022 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2022,12276,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,759000.0
+2020 Maruti Alto LXI,Faridabad,Hatchback,2020,29588,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,339000.0
+2020 Maruti Celerio VXI (O) CNG,Delhi,Hatchback,2020,44011,CNG,Manual,1,25.0,998.0,66.0,5.0,700000.0,536000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2019,19224,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,584000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2016,71982,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,471000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2021,23479,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,659000.0
+2020 Maruti New Wagon-R LXI CNG 1.0,Faridabad,Other,2020,29795,CNG,Manual,1,,,,,,556000.0
+2017 Maruti Dzire VDI,Delhi,Sedan,2017,70959,Diesel,Manual,1,23.0,1197.0,89.0,5.0,900000.0,613000.0
+2019 Maruti New Wagon-R VXI 1.2 AMT,Gurugram,Other,2019,27734,Petrol,Automatic,1,,,,,,501000.0
+2016 Maruti Swift Dzire VXI,Noida,Hatchback,2016,47275,Petrol,Manual,2,22.0,1197.0,88.0,5.0,850000.0,532000.0
+2020 Maruti S PRESSO VXI PLUS AMT,Ghaziabad,Other,2020,66068,Petrol,Automatic,2,,,,,,407000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2017,71220,Petrol,Manual,2,22.3,1197.0,89.0,5.0,900000.0,471000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2021,24719,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,699000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2017,89264,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,480000.0
+2019 Maruti Alto LXI,Noida,Hatchback,2019,57555,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,320000.0
+2021 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2021,28610,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,850000.0
+2022 Maruti S PRESSO VXI+,Faridabad,Other,2022,15847,Petrol,Manual,1,,,,,,471000.0
+2014 Maruti Wagon R 1.0 LXI,Delhi,Hatchback,2014,115256,CNG,Manual,1,22.0,1197.0,88.0,5.0,750000.0,327000.0
+2020 Maruti IGNIS ALPHA 1.2,Gurugram,Hatchback,2020,35507,Petrol,Manual,2,20.9,1197.0,82.0,5.0,800000.0,527000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2016,59200,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,481000.0
+2022 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Ghaziabad,Sedan,2022,35515,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,955000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Faridabad,Hatchback,2017,99026,Petrol,Manual,3,22.3,1197.0,89.0,5.0,900000.0,514000.0
+2022 Maruti S PRESSO VXI,Delhi,Other,2022,17426,Petrol,Manual,1,,,,,,454000.0
+2018 Maruti Baleno ZETA CVT PETROL 1.2,Gurugram,Hatchback,2018,64827,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,592000.0
+2018 Maruti IGNIS DELTA 1.2,Noida,Hatchback,2018,94910,Petrol,Manual,1,20.9,1197.0,82.0,5.0,800000.0,418000.0
+2022 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2022,35783,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,733000.0
+2022 Maruti S PRESSO VXI+,Faridabad,Other,2022,28393,Petrol,Manual,1,,,,,,482000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2021,36251,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,699000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2020,57587,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,635000.0
+2020 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2020,54733,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,593000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Ghaziabad,Hatchback,2017,73866,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,565000.0
+2021 Maruti S PRESSO VXI+,Faridabad,Other,2021,63516,Petrol,Manual,1,,,,,,417000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Delhi,Hatchback,2017,76121,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,567000.0
+2018 Maruti Baleno DELTA CVT PETROL 1.2,Gurugram,Hatchback,2018,104977,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,518000.0
+2014 Maruti Wagon R 1.0 LXI,Noida,Hatchback,2014,53063,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,326000.0
+2019 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Ghaziabad,Sedan,2019,86706,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,740000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2021,38303,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,635000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2021,38969,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,633000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2020,71127,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,645000.0
+2021 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2021,23309,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,724000.0
+2015 Maruti Eeco 5 STR WITH A/C+HTR,Ghaziabad,MPV,2015,48661,CNG,Manual,1,19.7,1196.0,79.0,5.0,650000.0,381000.0
+2014 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2014,45538,Petrol,Manual,2,22.0,1197.0,88.0,5.0,750000.0,294000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Delhi,Hatchback,2017,46407,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,489000.0
+2017 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2017,69471,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,496000.0
+2020 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Noida,Sedan,2020,40753,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,839000.0
+2020 Maruti Vitara Brezza ZXI PLUS,Ghaziabad,SUV,2020,23702,Petrol,Manual,1,18.7,1462.0,103.0,5.0,1150000.0,793000.0
+2014 Maruti Alto K10 VXI,Faridabad,Hatchback,2014,49148,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,242000.0
+2023 Maruti Alto K10 VXI,Delhi,Hatchback,2023,9048,Petrol,Manual,1,24.0,998.0,66.0,5.0,600000.0,457000.0
+2017 Maruti Alto 800 LXI,Gurugram,Hatchback,2017,35703,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,280000.0
+2017 Maruti IGNIS ZETA 1.2 AMT,Noida,Hatchback,2017,30087,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,461000.0
+2016 Maruti Baleno DELTA PETROL 1.2,Ghaziabad,Hatchback,2016,29235,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,489000.0
+2020 Maruti S PRESSO VXI+,Faridabad,Other,2020,26931,Petrol,Manual,1,,,,,,402000.0
+2022 Maruti Swift ZXI PLUS AMT,Delhi,Hatchback,2022,24102,Petrol,Automatic,2,22.0,1197.0,88.0,5.0,850000.0,789000.0
+2023 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Gurugram,Sedan,2023,8899,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,945000.0
+2016 Maruti Alto 800 LXI,Noida,Hatchback,2016,68741,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,240000.0
+2017 Maruti Dzire VXI AMT,Ghaziabad,Sedan,2017,21576,Petrol,Automatic,1,23.0,1197.0,89.0,5.0,900000.0,570000.0
+2021 Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,Faridabad,Sedan,2021,37265,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,904000.0
+2018 Maruti Baleno ZETA PETROL 1.2,Delhi,Hatchback,2018,50480,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,532000.0
+2018 Maruti Baleno ALPHA PETROL 1.2,Gurugram,Hatchback,2018,72942,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,548000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2021,38880,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,602000.0
+2017 Maruti IGNIS DELTA 1.2 AMT,Ghaziabad,Hatchback,2017,37621,Petrol,Automatic,1,20.9,1197.0,82.0,5.0,800000.0,471000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Faridabad,Hatchback,2021,12797,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,643000.0
+2021 Maruti Baleno ZETA CVT PETROL 1.2,Delhi,Hatchback,2021,31625,Petrol,Automatic,1,22.3,1197.0,89.0,5.0,900000.0,763000.0
+2021 Maruti Baleno DELTA PETROL 1.2,Gurugram,Hatchback,2021,11595,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,657000.0
+2017 Maruti Eeco 5 STR WITH A/C+HTR,Noida,MPV,2017,93158,CNG,Manual,1,19.7,1196.0,79.0,5.0,650000.0,422000.0
+2018 Maruti Ertiga ZDI + SHVS,Ghaziabad,MPV,2018,67348,Diesel,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,892000.0
+2021 Maruti Dzire VXI,Faridabad,Sedan,2021,25625,Petrol,Manual,1,23.0,1197.0,89.0,5.0,900000.0,633000.0
+2013 Maruti Swift Dzire VXI,Delhi,Hatchback,2013,70348,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,375000.0
+2014 Maruti Alto K10 VXI,Gurugram,Hatchback,2014,36066,Petrol,Manual,2,24.0,998.0,66.0,5.0,600000.0,226000.0
+2019 Maruti New Wagon-R VXI 1.0,Noida,Other,2019,53840,Petrol,Manual,1,,,,,,443000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Ghaziabad,Hatchback,2017,60499,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,513000.0
+2017 Maruti Dzire VDI,Faridabad,Sedan,2017,72753,Diesel,Manual,1,23.0,1197.0,89.0,5.0,900000.0,610000.0
+2018 Maruti Wagon R 1.0 VXI,Delhi,Hatchback,2018,30552,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,389000.0
+2017 Maruti Baleno ZETA PETROL 1.2,Gurugram,Hatchback,2017,97030,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,475000.0
+2016 Maruti Celerio VXI AMT,Noida,Hatchback,2016,73539,Petrol,Automatic,2,25.0,998.0,66.0,5.0,700000.0,351000.0
+2018 Maruti Ciaz ALPHA 1.5 SHVS PETROL,Ghaziabad,Sedan,2018,27894,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,770000.0
+2017 Maruti Wagon R 1.0 VXI AMT,Faridabad,Hatchback,2017,19767,Petrol,Automatic,1,22.0,1197.0,88.0,5.0,750000.0,421000.0
+2018 Maruti Ciaz ZETA 1.4 AT PETROL,Delhi,Sedan,2018,64686,Petrol,Automatic,1,20.0,1462.0,103.0,5.0,1100000.0,648000.0
+2017 Maruti Baleno ALPHA PETROL 1.2,Gurugram,Hatchback,2017,75059,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,552000.0
+2020 Maruti Baleno ZETA PETROL 1.2,Noida,Hatchback,2020,58346,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,638000.0
+2016 Maruti Ciaz ZDI SHVS,Ghaziabad,Sedan,2016,79630,Diesel,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,512000.0
+2021 Maruti Swift VXI,Faridabad,Hatchback,2021,44299,Petrol,Manual,1,22.0,1197.0,88.0,5.0,850000.0,621000.0
+2021 Maruti Ertiga VXI SHVS,Delhi,MPV,2021,19901,Petrol,Manual,1,20.5,1462.0,103.0,7.0,1150000.0,862000.0
+2015 Maruti Ciaz ZXI,Gurugram,Sedan,2015,50022,Petrol,Manual,1,20.0,1462.0,103.0,5.0,1100000.0,507000.0
+2019 Maruti Baleno DELTA PETROL 1.2,Noida,Hatchback,2019,58679,Petrol,Manual,1,22.3,1197.0,89.0,5.0,900000.0,554000.0
+2017 Maruti Ciaz S 1.4 MT PETROL,Ghaziabad,Sedan,2017,73948,Petrol,Manual,2,20.0,1462.0,103.0,5.0,1100000.0,557000.0
+2012 Maruti Wagon R 1.0 LXI,Faridabad,Hatchback,2012,55994,Petrol,Manual,1,22.0,1197.0,88.0,5.0,750000.0,256000.0

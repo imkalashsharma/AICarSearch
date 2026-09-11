@@ -1,9 +1,10 @@
 package com.cars24assignment.aiCarSearch.service.impl;
 
 import com.cars24assignment.aiCarSearch.config.AppConfig;
+import com.cars24assignment.aiCarSearch.exception.AIServiceException;
 import com.cars24assignment.aiCarSearch.service.AIService;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.google.genai.Client;
+import com.google.genai.gaos.models.errors.CreateInteractionClientError;
 import com.google.genai.gaos.models.interactions.*;
 import com.google.genai.gaos.models.operations.CreateInteractionRequestBody;
 import org.springframework.stereotype.Service;
@@ -27,11 +28,20 @@ public class AIServiceImpl implements AIService {
                 .input(InteractionsInput.of(prompt))
                 .build();
 
-        Interaction interaction = client.interactions.create(CreateInteractionRequestBody.of(params))
-                .interaction()
-                .get();
+        try {
+            Interaction interaction = client.interactions.create(CreateInteractionRequestBody.of(params))
+                    .interaction()
+                    .get();
 
-        return extractOutput(interaction);
+            return extractOutput(interaction);
+        } catch (CreateInteractionClientError ex) {
+            if (ex.getMessage() != null && ex.getMessage().contains("429")) {
+
+                throw new AIServiceException("AI service quota exceeded. Please try again later.");
+            }
+
+            throw new AIServiceException("AI service is currently unavailable.");
+        }
     }
 
     private String extractOutput(Interaction interaction) {
