@@ -123,7 +123,7 @@ POST /v1/search
 Example:
 
 {
-"query": "automatic SUV under 10 lakh"
+"query": "Show me SUVs under 15 lakh in Delhi"
 }
 
 ### Import vehicles
