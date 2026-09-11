@@ -7,5 +7,5 @@ spring:
 server:
   port: ${PORT:8080}
 
-gemini:
+ai:
   apiKey: ${GEMINI_API_KEY}
