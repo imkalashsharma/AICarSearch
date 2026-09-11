@@ -1,3 +1,10 @@
 spring:
   application:
     name: aiCarSearch
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+  flyway:
+    enabled: true
