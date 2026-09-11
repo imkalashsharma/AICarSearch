@@ -1,0 +1,2 @@
+ALTER TABLE vehicles
+ADD COLUMN body_type VARCHAR(50);

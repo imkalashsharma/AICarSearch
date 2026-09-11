@@ -1,4 +1,7 @@
 package com.cars24assignment.aiCarSearch.model;
 
-public class SearchResponse {
-}
+import com.cars24assignment.aiCarSearch.entity.Vehicle;
+
+import java.util.List;
+
+public record SearchResponse (List<Vehicle> vehicles) {}
