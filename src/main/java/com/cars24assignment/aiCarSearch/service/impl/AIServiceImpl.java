@@ -24,7 +24,7 @@ public class AIServiceImpl implements AIService {
     public String askGemini(String prompt) {
         CreateModelInteraction params = CreateModelInteraction
                 .builder()
-                .model(Model.of("gemini-3.8-flash"))
+                .model(Model.of("gemini-3.5-flash-lite"))
                 .input(InteractionsInput.of(prompt))
                 .build();
 
