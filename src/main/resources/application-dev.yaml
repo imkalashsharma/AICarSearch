@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5433/aicarsearch
-    username: pass@123
+    url: jdbc:postgresql://localhost:5432/aicarsearch
+    username: postgres
     password: pass@123
