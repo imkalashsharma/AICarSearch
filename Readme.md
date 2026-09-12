@@ -28,6 +28,7 @@ Google Gemini converts the query into structured search filters, and the Spring 
 
 ## Architecture
 
+```
 User Query
 ↓
 Vehicle Controller
@@ -41,6 +42,7 @@ Vehicle Repository
 PostgreSQL
 ↓
 Vehicle Results
+```
 
 Gemini is used only to understand the user's intent and create structured filters. It does not generate SQL or decide which vehicles to return.
 
